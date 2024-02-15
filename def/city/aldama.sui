@@ -1,0 +1,36 @@
+city_data: city.aldama
+{
+	city_name: "Juan Aldama"
+	city_name_localized: "@@aldama@@"
+	country: chihuah
+
+	city_pin_scale_factor[]: 0.95
+	city_pin_scale_factor[]: 0.85
+	city_pin_scale_factor[]: 0.8
+	city_pin_scale_factor[]: 0.75
+	
+	city_pin_scale_factor[]: 0.95
+	city_pin_scale_factor[]: 0.85
+	city_pin_scale_factor[]: 0.8
+	city_pin_scale_factor[]: 0.75
+	
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+}
+
