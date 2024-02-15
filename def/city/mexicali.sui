@@ -1,0 +1,36 @@
+city_data: city.mexicali
+{
+	city_name: "Mexicali"
+	short_city_name: "Mexicali"
+	city_name_localized: "@@mexicali@@"
+	country: bajacalifo
+	
+	city_pin_scale_factor[]: 1.3
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.2
+	
+	city_pin_scale_factor[]: 1.3
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.2
+	
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	
+}

@@ -1,0 +1,36 @@
+city_data: city.pnegras
+{
+	city_name: "Piedras Negras"
+	city_name_localized: "@@pnegras@@"
+	country: coahuil
+
+	city_pin_scale_factor[]: 1
+	city_pin_scale_factor[]: 1
+	city_pin_scale_factor[]: 1
+	city_pin_scale_factor[]: 1
+	
+	city_pin_scale_factor[]: 1
+	city_pin_scale_factor[]: 1
+	city_pin_scale_factor[]: 1
+	city_pin_scale_factor[]: 1
+	
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+}
+

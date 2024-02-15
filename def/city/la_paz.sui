@@ -1,0 +1,39 @@
+city_data: city.la_paz
+{
+	city_name: "La Paz"
+	city_name_localized: "@@la_paz@@"
+	country: bajacalisu
+
+	city_pin_scale_factor[]: 1.3
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.2
+	
+	city_pin_scale_factor[]: 1.3
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.2
+	
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+
+	vehicle_brands[]: "kenworth"
+
+}
+

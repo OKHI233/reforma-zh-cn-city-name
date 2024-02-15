@@ -1,0 +1,38 @@
+city_data: city.torreon
+{
+	city_name: "Torreón"
+	city_name_localized: "@@torreon@@"
+	country: coahuil
+
+	city_pin_scale_factor[]: 1.3
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.2
+	
+	city_pin_scale_factor[]: 1.3
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.25
+	city_pin_scale_factor[]: 1.2
+	
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -50
+	map_x_offsets[]: -50
+	map_x_offsets[]: -50
+	map_x_offsets[]: -50
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: -27
+	map_y_offsets[]: -27
+	map_y_offsets[]: -27
+	map_y_offsets[]: -27
+	
+	vehicle_brands[]: "intnational"
+
+}
+

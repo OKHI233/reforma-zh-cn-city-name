@@ -1,0 +1,36 @@
+city_data: city.salinas
+{
+	city_name: "Salinas"
+	city_name_localized: "@@salinas@@"
+	country: sanluis
+
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.75
+	city_pin_scale_factor[]: 0.7
+	city_pin_scale_factor[]: 0.6
+	
+	city_pin_scale_factor[]: 0.9
+	city_pin_scale_factor[]: 0.75
+	city_pin_scale_factor[]: 0.7
+	city_pin_scale_factor[]: 0.6
+	
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+
+}
+
