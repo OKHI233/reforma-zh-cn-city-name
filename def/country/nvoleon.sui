@@ -1,0 +1,33 @@
+
+country_data: country.data.nvoleon
+{
+	country_id: 113
+	
+	name: "Nuevo León"
+	name_localized: "@@nvoleon@@"
+	country_code: "NL.MX"
+	iso_country_code: mex
+
+	pos:(-19645, 0, 74777)
+
+	fuel_price: 0.88735	# $3.359/gallon = 0.88735/litre
+
+	lights_mandatory: false
+	imperial_units: false	
+	driving_tired_offence: false
+	
+	time_zone: -300		# -5 hours in minutes
+	time_zone_name: "@@CDT@@"
+	
+	mass_limit_per_axle_count[]: 18143.7	# 40000 lb	# 2-axle vehicle
+	mass_limit_per_axle_count[]: 27215.6	# 60000 lb
+	mass_limit_per_axle_count[]: 36287.4	# 80000 lb
+	mass_limit_per_axle_count[]: 38782.5	# 85500 lb
+	mass_limit_per_axle_count[]: 40823.4	# 90000 lb
+	mass_limit_per_axle_count[]: 48307.6	# 106500 lb
+	mass_limit_per_axle_count[]: 50575.6	# 111500 lb
+	mass_limit_per_axle_count[]: 53070.4	# 117000 lb
+
+	
+}
+

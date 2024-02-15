@@ -1,0 +1,22 @@
+
+country_data: country.data.sinaloa
+{
+	country_id: 102	
+	
+	name: "Sinaloa"
+	name_localized: "@@sinaloa@@"
+	country_code: "SIN.MX"
+	iso_country_code: mex
+
+	pos:(-61000, 0, 74000)
+
+	fuel_price: 0.88735	# $3.359/gallon = 0.88735/litre
+
+	lights_mandatory: false
+	imperial_units: false	
+	driving_tired_offence: false
+	
+	time_zone: -360		# -6 hours in minutes
+	time_zone_name: "@@tz_mdt@@"
+}
+

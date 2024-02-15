@@ -1,0 +1,22 @@
+
+country_data : country.data.sonora
+{
+	country_id: 101	
+	
+	name: "Sonora"
+	name_localized: "@@sonora@@"
+	country_code: "SON.MX"
+	iso_country_code: mex
+
+	pos:(-71000, 0, 47000)
+
+	fuel_price: 0.88735	# $3.359/gallon = 0.88735/litre
+
+	lights_mandatory: false
+	imperial_units: false	
+	driving_tired_offence: false
+	
+	time_zone: -360		# -6 hours in minutes
+	time_zone_name: "@@CDT@@"
+}
+
