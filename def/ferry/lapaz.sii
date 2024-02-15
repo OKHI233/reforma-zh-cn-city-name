@@ -1,0 +1,10 @@
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.lapaz{
+	ferry_name: "BajaFerries La Paz"
+	ferry_name_localized: "@@lapaz@@"
+
+}
+
+
