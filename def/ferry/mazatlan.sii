@@ -1,0 +1,11 @@
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.mazatlan
+{
+	ferry_name: "BajaFerries Mazatlan"
+	ferry_name_localized: "@@mazatlanf@@"
+
+}
+
+
