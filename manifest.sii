@@ -1,0 +1,44 @@
+SiiNunit
+{
+# ".package_name" does not matter as the dot at the beginning of the file means that this unit is anonymous. 
+# Please keep this form to not make any conflicts with other mod packages (name collisions).
+mod_package : .package_name
+{
+
+	# Package version can be any string with any length.
+	package_version: "2.6.4"
+
+	# Display name can be any string with any length.
+	display_name: "Reforma Chinese (Simplified) City Name 2.6.4"
+
+	# Author can be any string with any length.
+	author: "OKHI233"
+
+	# Categories is an array of strings. 
+	category[]: "other"
+
+	# Icon inside the root directory of the mod.
+	icon: "mod_icon.jpg"
+
+	# Description file inside the root directory of the mod.
+	description_file: "description.txt"
+
+	 
+	compatible_versions[]: "1.49.*" # Mod is compatible with 1.49.X..
+
+	mp_mod_optional: true
+	
+	dlc_dependencies[]: "dlc_arizona"
+	dlc_dependencies[]: "dlc_nevada"
+	dlc_dependencies[]: "dlc_nm"
+	dlc_dependencies[]: "dlc_or"
+	dlc_dependencies[]: "dlc_wa"
+	dlc_dependencies[]: "dlc_ut"
+	dlc_dependencies[]: "dlc_id"
+	dlc_dependencies[]: "dlc_co"
+	dlc_dependencies[]: "dlc_wy"
+	dlc_dependencies[]: "dlc_mt"
+	dlc_dependencies[]: "dlc_tx"
+
+}
+}
