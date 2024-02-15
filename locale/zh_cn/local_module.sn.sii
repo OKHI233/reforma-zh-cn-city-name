@@ -1,0 +1,56 @@
+SiiNunit
+{
+localization_db : .localization
+{
+		key[]: "r_sonorap"
+        val[]: "索诺拉山口"
+		
+		key[]: "r_tahoel"
+        val[]: "塔霍湖"
+		
+		key[]: "r_emerald"
+        val[]: "翡翠湾"
+		
+		key[]: "r_mtrose"
+        val[]: "玫瑰山峰"
+		
+		key[]: "r_monol"
+        val[]: "莫诺湖远景"
+		
+		key[]: "r_donnerl"
+        val[]: "唐纳湖"
+		
+		key[]: "r_stanislaus"
+        val[]: "斯坦尼斯劳斯国家森林"
+		
+		key[]: "r_pedror"
+        val[]: "唐佩德罗水库"
+		
+		key[]: "r_tenaya"
+        val[]: "特纳亚湖"
+		
+		key[]: "r_olmsted"
+        val[]: "奥姆斯特德点"
+		
+		key[]: "r_tuolumne"
+        val[]: "图奥勒米草原"
+		
+		key[]: "r_tioga"
+        val[]: "泰奥加山口"
+		
+		key[]: "r_tiogav"
+        val[]: "泰奥加谷景色"
+		
+		key[]: "r_yosemitev"
+        val[]: "约塞米蒂谷"
+		
+		key[]: "r_tunnelv"
+        val[]: "约塞米蒂隧道景色"
+		
+		key[]: "r_father"
+        val[]: "克劳力神父远景点"
+		
+		key[]: "r_death"
+        val[]: "死谷国家公园"
+}
+}

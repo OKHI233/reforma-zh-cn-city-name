@@ -1,0 +1,614 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	#COUNTRIES
+		key[]: "aguascac"
+		val[]: "阿瓜斯卡连特斯州"
+
+		key[]: "bajacalifo"
+		val[]: "下加利福尼亚州"
+
+		key[]: "bajacalisu"
+		val[]: "南下加利福尼亚州"
+
+		key[]: "chihuah"
+		val[]: "奇瓦瓦州"
+
+		key[]: "coahuil"
+		val[]: "科阿韦拉州"
+
+		key[]: "durangoc"
+		val[]: "杜兰戈州"
+
+		key[]: "jalisco"
+		val[]: "哈利斯科州"
+
+		key[]: "nayarit"
+		val[]: "纳亚里特州"
+
+		key[]: "nvoleon"
+		val[]: "新莱昂州"
+
+		key[]: "sanluis"
+		val[]: "圣路易斯波托西州"
+
+		key[]: "sinaloa"
+		val[]: "锡那罗亚州"
+
+		key[]: "sonora"
+		val[]: "索诺拉州"
+
+		key[]: "zacatecasc"
+		val[]: "萨卡特卡斯州"
+
+	#CITIES
+		key[]: "acaponeta"
+		val[]: "阿卡波内塔"
+
+		key[]: "agua_prieta"
+		val[]: "阿瓜普列塔"
+
+		key[]: "aguasca"
+		val[]: "阿瓜斯卡连特斯"
+
+		key[]: "ahualulco"
+		val[]: "阿瓦卢尔科"
+
+		key[]: "ajo"
+		val[]: "阿荷"
+
+		key[]: "aldama"
+		val[]: "胡安阿尔达玛"
+
+		key[]: "ameca"
+		val[]: "阿美卡"
+
+		key[]: "aquismon"
+		val[]: "阿奎斯蒙"
+
+		key[]: "arandas"
+		val[]: "阿兰达斯"
+
+		key[]: "arivechi"
+		val[]: "阿里维基"
+
+		key[]: "ascension"
+		val[]: "阿森松"
+
+		key[]: "atotoalt"
+		val[]: "阿托托尼科"
+
+		key[]: "autlan"
+		val[]: "奥特兰"
+
+		key[]: "bahia_tortu"
+		val[]: "巴伊亚托尔图加斯"
+
+		key[]: "barca"
+		val[]: "拉巴萨"
+
+		key[]: "basas"
+		val[]: "巴萨赛奇"
+
+		key[]: "batopil"
+		val[]: "巴托皮拉斯"
+
+		key[]: "blythe"
+		val[]: "布莱斯"
+
+		key[]: "bnavidad"
+		val[]: "巴拉德纳维达"
+
+		key[]: "boquill"
+		val[]: "波基利亚斯德尔卡门"
+
+		key[]: "boycona"
+		val[]: "博科伊纳"
+
+		key[]: "brawley"
+		val[]: "布劳利"
+
+		key[]: "buenvent"
+		val[]: "圣布埃纳文图拉"
+
+		key[]: "cabo_sanluc"
+		val[]: "卡沃圣卢卡斯"
+
+		key[]: "caborca"
+		val[]: "卡博尔卡"
+
+		key[]: "calexico"
+		val[]: "加利西哥"
+
+		key[]: "calvillo"
+		val[]: "卡维洛"
+
+		key[]: "camargo"
+		val[]: "卡马戈"
+
+		key[]: "cananea"
+		val[]: "卡纳内阿"
+
+		key[]: "canatlan"
+		val[]: "卡纳特兰"
+
+		key[]: "canelas"
+		val[]: "卡内拉斯"
+
+		key[]: "cd_constit"
+		val[]: "宪法城"
+
+		key[]: "cd_cuauh"
+		val[]: "夸乌特莫克城"
+
+		key[]: "cd_insurgen"
+		val[]: "起义者城"
+
+		key[]: "cd_juarez"
+		val[]: "华雷斯城"
+
+		key[]: "cd_obregon"
+		val[]: "奥夫雷贡城"
+
+		key[]: "cdacuna"
+		val[]: "阿库尼亚城"
+
+		key[]: "cdguz"
+		val[]: "古斯曼城"
+
+		key[]: "cedral"
+		val[]: "赛德拉尔"
+
+		key[]: "cerritos"
+		val[]: "赛里托斯"
+
+		key[]: "chalchi"
+		val[]: "查尔奇维特"
+
+		key[]: "chapala"
+		val[]: "查帕拉"
+
+		key[]: "charcas"
+		val[]: "查卡斯"
+
+		key[]: "chihuahua"
+		val[]: "奇瓦瓦市"
+
+		key[]: "ciro"
+		val[]: "圣西罗德阿科斯塔"
+
+		key[]: "ciucoahuila"
+		val[]: "科阿韦拉城"
+
+		key[]: "colotlan"
+		val[]: "科洛特兰"
+
+		key[]: "compostela"
+		val[]: "孔波斯特拉"
+
+		key[]: "conchaoro"
+		val[]: "康塞普西翁德尔奥罗"
+
+		key[]: "cosala"
+		val[]: "科萨拉"
+
+		key[]: "cuatroc"
+		val[]: "夸特罗谢内加斯"
+
+		key[]: "cuencame"
+		val[]: "昆卡美"
+
+		key[]: "culiacan"
+		val[]: "库利亚坎"
+
+		key[]: "delicias"
+		val[]: "德利西亚斯"
+
+		key[]: "derrama"
+		val[]: "德拉马德罗"
+
+		key[]: "douglaz"
+		val[]: "道格拉斯"
+
+		key[]: "ebano"
+		val[]: "埃巴诺"
+
+		key[]: "ehrenberg_p"
+		val[]: "埃伦伯格"
+
+		key[]: "el_paso"
+		val[]: "埃尔帕索"
+
+		key[]: "el_rosario"
+		val[]: "埃尔罗萨里奥"
+
+		key[]: "el_salto"
+		val[]: "埃尔萨尔托"
+
+		key[]: "elnaranjo"
+		val[]: "埃尔纳兰霍"
+
+		key[]: "encar"
+		val[]: "恩卡纳西翁迪亚斯"
+
+		key[]: "ensenada"
+		val[]: "恩森那达"
+
+		key[]: "fresnillo"
+		val[]: "弗雷斯尼约"
+
+		key[]: "gilabend"
+		val[]: "希拉本德"
+
+		key[]: "glamis"
+		val[]: "格拉米斯"
+
+		key[]: "golfodsc"
+		val[]: "圣克拉拉湾"
+
+		key[]: "gomez_p"
+		val[]: "戈麦斯帕拉西奥"
+
+		key[]: "goodyear"
+		val[]: "固特异"
+
+		key[]: "gpeical"
+		val[]: "瓜达卢佩和卡尔沃"
+
+		key[]: "gpevictoria"
+		val[]: "瓜达卢佩维多利亚"
+
+		key[]: "guachoch"
+		val[]: "瓜乔奇"
+
+		key[]: "guadala"
+		val[]: "瓜达拉哈拉"
+
+		key[]: "guamuchil"
+		val[]: "瓜穆奇尔"
+
+		key[]: "guanacevi"
+		val[]: "瓜纳切维"
+
+		key[]: "guasave"
+		val[]: "瓜萨维"
+
+		key[]: "guaymas"
+		val[]: "瓜伊马斯"
+
+		key[]: "guerrero_ne"
+		val[]: "格雷罗内格罗"
+
+		key[]: "h_nogales"
+		val[]: "英雄诺加莱斯"
+
+		key[]: "hermosillo"
+		val[]: "埃莫西约"
+
+		key[]: "holtville"
+		val[]: "豪特维尔"
+
+		key[]: "huazamota"
+		val[]: "华扎莫塔"
+
+		key[]: "huejuq"
+		val[]: "韦朱基拉"
+
+		key[]: "illescas"
+		val[]: "伊列斯卡斯"
+
+		key[]: "indio"
+		val[]: "印第奥"
+
+		key[]: "ixtlan_rio"
+		val[]: "伊斯特兰德尔里奥"
+
+		key[]: "jalpa"
+		val[]: "雅尔帕"
+
+		key[]: "jerez"
+		val[]: "赫雷斯德加西亚萨利纳斯"
+
+		key[]: "jesusma"
+		val[]: "耶苏斯玛丽亚"
+
+		key[]: "jimenez"
+		val[]: "希门尼斯城"
+
+		key[]: "juanlag"
+		val[]: "圣胡安德洛斯拉各斯"
+
+		key[]: "la_paz"
+		val[]: "拉巴斯"
+
+		key[]: "lacruz"
+		val[]: "拉克鲁斯"
+
+		key[]: "lagosmo"
+		val[]: "拉戈斯德莫雷诺"
+
+		key[]: "laperla"
+		val[]: "拉佩拉"
+
+		key[]: "loreto"
+		val[]: "洛雷托"
+
+		key[]: "los_barriles"
+		val[]: "洛斯巴里尔斯"
+
+		key[]: "los_mochis"
+		val[]: "洛斯莫奇斯"
+
+		key[]: "magdalenak"
+		val[]: "马格达莱娜德奇诺"
+
+		key[]: "maiz"
+		val[]: "麦斯城"
+
+		key[]: "mapimi"
+		val[]: "马皮米"
+
+		key[]: "mascota"
+		val[]: "马斯科塔"
+
+		key[]: "matehuala"
+		val[]: "马特瓦拉"
+
+		key[]: "mazam"
+		val[]: "马萨米特拉"
+
+		key[]: "mazatlan"
+		val[]: "马萨特兰"
+
+		key[]: "mesa_nayar"
+		val[]: "梅萨德尔纳亚尔"
+
+		key[]: "mexicali"
+		val[]: "墨西加利"
+
+		key[]: "mezquital"
+		val[]: "梅斯基塔尔"
+
+		key[]: "moctezuma"
+		val[]: "蒙特祖玛"
+
+		key[]: "moctezumaslp"
+		val[]: "蒙特祖玛"
+
+		key[]: "monclova"
+		val[]: "蒙克洛瓦"
+
+		key[]: "muzquiz"
+		val[]: "穆兹奎兹"
+
+		key[]: "nacozari"
+		val[]: "纳科扎里"
+
+		key[]: "navojoa"
+		val[]: "纳沃华"
+
+		key[]: "nvo_casas"
+		val[]: "新卡萨斯格兰德斯"
+
+		key[]: "nvo_vallarta"
+		val[]: "新巴亚尔塔"
+
+		key[]: "ocampoc"
+		val[]: "欧堪波"
+
+		key[]: "ojinaga"
+		val[]: "奥吉纳加"
+
+		key[]: "ojuelos"
+		val[]: "奥胡洛斯"
+
+		key[]: "p_vallarta"
+		val[]: "巴亚尔塔港"
+
+		key[]: "palmdesert"
+		val[]: "棕榈沙漠"
+
+		key[]: "palmsprings"
+		val[]: "棕榈泉"
+
+		key[]: "parker"
+		val[]: "帕克"
+
+		key[]: "parral"
+		val[]: "帕拉尔"
+
+		key[]: "parras"
+		val[]: "帕拉斯"
+
+		key[]: "pinos"
+		val[]: "皮诺斯"
+
+		key[]: "pnegras"
+		val[]: "彼德拉斯内格拉斯"
+
+		key[]: "presidio"
+		val[]: "普雷西迪奥"
+
+		key[]: "puerto_penas"
+		val[]: "佩纳斯科港"
+
+		key[]: "puerto_sanc"
+		val[]: "圣卡洛斯港"
+
+		key[]: "punta_abreo"
+		val[]: "蓬塔阿布雷奥霍斯"
+
+		key[]: "punta_prieta"
+		val[]: "蓬塔普列塔"
+
+		key[]: "quartzsite"
+		val[]: "水晶镇"
+
+		key[]: "ramosar"
+		val[]: "拉莫斯阿里兹佩"
+
+		key[]: "rcatorce"
+		val[]: "皇家卡托斯"
+
+		key[]: "refugio"
+		val[]: "埃尔雷希奥"
+
+		key[]: "riogrande"
+		val[]: "里奥格兰德"
+
+		key[]: "rioverde"
+		val[]: "里奥韦尔德"
+
+		key[]: "s_teresa"
+		val[]: "圣特雷莎"
+
+		key[]: "salinas"
+		val[]: "萨利纳斯"
+
+		key[]: "saltillo"
+		val[]: "萨尔蒂约"
+
+		key[]: "san_felipe"
+		val[]: "圣费利佩"
+
+		key[]: "sanblas"
+		val[]: "圣布拉斯"
+
+		key[]: "sanluisp"
+		val[]: "圣路易斯波托西市"
+
+		key[]: "sanluisrc"
+		val[]: "圣路易斯里奥科罗拉多"
+
+		key[]: "santa_ana"
+		val[]: "圣安娜"
+
+		key[]: "santa_rosa"
+		val[]: "圣罗萨利亚"
+
+		key[]: "santiagopap"
+		val[]: "圣地亚哥帕帕斯基亚罗"
+
+		key[]: "sombre"
+		val[]: "桑布雷特"
+
+		key[]: "sonoyta"
+		val[]: "索诺伊塔"
+
+		key[]: "spedroc"
+		val[]: "圣佩德罗"
+
+		key[]: "stamaoro"
+		val[]: "圣玛丽亚德尔奥罗"
+
+		key[]: "stamariar"
+		val[]: "圣玛丽亚德尔里奥"
+
+		key[]: "tamasopo"
+		val[]: "塔马索波"
+
+		key[]: "tamazula"
+		val[]: "塔玛祖拉"
+
+		key[]: "tamazunchale"
+		val[]: "塔玛祖查莱"
+
+		key[]: "tamuin"
+		val[]: "塔穆因"
+
+		key[]: "tecuala"
+		val[]: "特夸拉"
+
+		key[]: "tepa"
+		val[]: "特帕蒂特兰"
+
+		key[]: "tepic"
+		val[]: "特皮克"
+
+		key[]: "tequila"
+		val[]: "特基拉"
+
+		key[]: "tijuana"
+		val[]: "蒂华纳"
+
+		key[]: "tlajo"
+		val[]: "特拉霍穆尔科"
+
+		key[]: "tlalte"
+		val[]: "特拉尔特南戈"
+
+		key[]: "tlaque"
+		val[]: "特拉克帕克"
+
+		key[]: "tomatlan"
+		val[]: "托马特兰"
+
+		key[]: "tonala"
+		val[]: "托纳拉"
+
+		key[]: "torreon"
+		val[]: "托雷翁"
+
+		key[]: "urique"
+		val[]: "乌里克"
+
+		key[]: "v_ahumada"
+		val[]: "阿乌马达镇"
+
+		key[]: "valles"
+		val[]: "巴耶斯城"
+
+		key[]: "valpa"
+		val[]: "瓦尔帕莱索"
+
+		key[]: "vdurango"
+		val[]: "杜兰戈"
+
+		key[]: "venegas"
+		val[]: "瓦内加斯"
+
+		key[]: "vicentegro"
+		val[]: "比森特格雷罗"
+
+		key[]: "villa_g"
+		val[]: "瓜达卢佩镇"
+
+		key[]: "villa_h"
+		val[]: "伊达尔戈镇"
+
+		key[]: "villanueva"
+		val[]: "比利亚努埃瓦"
+
+		key[]: "vreyes"
+		val[]: "雷耶斯镇"
+
+		key[]: "vzaragoza"
+		val[]: "萨拉戈萨镇"
+
+		key[]: "xilitla"
+		val[]: "希利特拉"
+
+		key[]: "yecora"
+		val[]: "耶科拉"
+
+		key[]: "zacatecas"
+		val[]: "萨卡特卡斯"
+
+		key[]: "zapopan"
+		val[]: "萨波潘"
+
+	#FERRIES
+		key[]: "lapaz"
+		val[]: "巴哈渡轮 拉巴斯"
+
+		key[]: "losmochis"
+		val[]: "巴哈渡轮 托波洛班波"
+
+		key[]: "mazatlanf"
+		val[]: "巴哈渡轮 马萨特兰"
+
+
+}
+}

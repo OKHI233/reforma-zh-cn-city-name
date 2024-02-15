@@ -1,0 +1,51 @@
+SiiNunit
+{
+localization_db : .localization
+{
+
+	#CITIES
+		key[]: "austinv"
+		val[]: "奥斯汀"
+
+		key[]: "bishop"
+		val[]: "毕晓普"
+
+		key[]: "carson_city"
+		val[]: "卡森城"
+
+		key[]: "eurekanv"
+		val[]: "尤里卡"
+
+		key[]: "fallon"
+		val[]: "法伦"
+
+		key[]: "leevining"
+		val[]: "李维宁"
+
+		key[]: "lonepine"
+		val[]: "隆派恩"
+
+		key[]: "ltahoe"
+		val[]: "南塔霍湖"
+
+		key[]: "redbluff"
+		val[]: "雷德布拉夫"
+
+		key[]: "sonoraca"
+		val[]: "索诺拉"
+
+		key[]: "susanv"
+		val[]: "苏珊维尔"
+
+		key[]: "truckee"
+		val[]: "特拉基"
+
+		key[]: "winnemucca"
+		val[]: "温尼马卡"
+
+		key[]: "yosemite_v"
+		val[]: "约塞米蒂谷"
+
+
+}
+}
