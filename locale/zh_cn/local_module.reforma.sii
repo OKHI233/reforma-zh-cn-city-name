@@ -1,0 +1,128 @@
+SiiNunit
+{
+localization_db : .localization
+{
+        key[]: "r_pegui"
+        val[]: "佩吉斯峡谷"
+		
+		key[]: "r_chih"
+        val[]: "奇瓦瓦市"
+		
+		key[]: "r_tutu"
+        val[]: "图图阿卡自然保护区"
+		
+		key[]: "r_pinos"
+        val[]: "皮诺斯阿尔托斯矿"
+		
+		key[]: "r_mirab"
+        val[]: "巴萨赛奇观景点"
+		
+		key[]: "r_tara"
+        val[]: "塔拉乌马拉山脉"
+		
+		key[]: "r_creel"
+        val[]: "克里尔镇"
+		
+		key[]: "r_sierra"
+        val[]: "西马德雷山脉"
+		
+		key[]: "r_divi"
+        val[]: "黄铜谷"
+		
+		key[]: "r_uriquem"
+        val[]: "乌里克观景点"
+		
+		key[]: "r_urique"
+        val[]: "乌里克镇"
+		
+		key[]: "r_bato"
+        val[]: "巴托皮拉斯镇"
+		
+		key[]: "r_batob"
+        val[]: "巴托皮拉斯峡谷"
+		
+		key[]: "r_uriqueb"
+        val[]: "乌里克峡谷"
+		
+		key[]: "r_verde"
+        val[]: "里奥韦尔德"
+		
+		key[]: "r_deli"
+        val[]: "德利西亚斯市"
+		
+		key[]: "r_piax"
+        val[]: "皮亚斯特拉峡谷"
+		
+		key[]: "r_sant"
+        val[]: "圣地亚哥帕帕斯基亚罗山谷"
+		
+		key[]: "r_comedero"
+        val[]: "埃尔科梅德罗大坝"
+		
+		key[]: "r_espinazo"
+        val[]: "恶魔的脊梁"
+		
+		key[]: "r_baluarte"
+        val[]: "巴鲁阿特大桥"
+		
+		key[]: "r_nayar"
+        val[]: "德尔纳亚尔山脉"
+		
+		key[]: "r_blas"
+        val[]: "圣布拉斯码头"
+		
+		key[]: "r_pena"
+        val[]: "鹰峰"
+		
+		key[]: "r_morones"
+        val[]: "莫罗内斯山脉"
+		
+		key[]: "r_basa"
+        val[]: "巴萨赛奇瀑布"
+		
+		key[]: "r_cananeam"
+        val[]: "卡纳内阿矿"
+		
+		key[]: "r_caridad"
+        val[]: "拉卡里达矿"
+		
+		key[]: "r_gmexico"
+        val[]: "墨西哥集团工厂"
+		
+		key[]: "r_nacozari"
+        val[]: "纳克扎里德加西亚镇"
+		
+		key[]: "r_juriquipa"
+        val[]: "尤里基帕山脉"
+		
+		key[]: "r_mmaria"
+        val[]: "玛丽亚矿"
+		
+		key[]: "r_pinito"
+        val[]: "埃尔皮尼托山脉"
+		
+		key[]: "r_cieneguita"
+        val[]: "拉谢内吉塔山脉"
+		
+		key[]: "r_pajarito"
+        val[]: "埃尔帕杰里托山脉"
+		
+		key[]: "r_yaqui"
+        val[]: "亚基河 - 洛斯奇诺斯山脉"
+		
+		key[]: "r_lavender"
+        val[]: "拉文德坑"
+		
+		key[]: "r_majalca"
+        val[]: "马哈尔卡峰"
+		
+		key[]: "r_puertosl"
+        val[]: "圣路易斯山口"
+		
+		key[]: "r_culiacanl"
+        val[]: "库利亚坎沃尔伯特配送中心"
+		
+		key[]: "r_culiacan2"
+        val[]: "库利亚坎德罗萨莱斯市"
+}
+}
