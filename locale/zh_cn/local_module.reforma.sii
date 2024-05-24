@@ -3,7 +3,7 @@ SiiNunit
 localization_db : .localization
 {
         key[]: "r_pegui"
-        val[]: "佩吉斯峡谷"
+        val[]: "佩吉斯谷"
 		
 		key[]: "r_chih"
         val[]: "奇瓦瓦市"
@@ -39,10 +39,10 @@ localization_db : .localization
         val[]: "巴托皮拉斯镇"
 		
 		key[]: "r_batob"
-        val[]: "巴托皮拉斯峡谷"
+        val[]: "巴托皮拉斯谷"
 		
 		key[]: "r_uriqueb"
-        val[]: "乌里克峡谷"
+        val[]: "乌里克谷"
 		
 		key[]: "r_verde"
         val[]: "里奥韦尔德"
@@ -51,7 +51,7 @@ localization_db : .localization
         val[]: "德利西亚斯市"
 		
 		key[]: "r_piax"
-        val[]: "皮亚斯特拉峡谷"
+        val[]: "皮亚斯特拉谷"
 		
 		key[]: "r_sant"
         val[]: "圣地亚哥帕帕斯基亚罗山谷"
@@ -124,5 +124,26 @@ localization_db : .localization
 		
 		key[]: "r_culiacan2"
         val[]: "库利亚坎德罗萨莱斯市"
+        
+		key[]: "r_temohaya1"
+        val[]: "特莫哈亚谷"
+		
+		key[]: "r_temohaya2"
+        val[]: "特莫哈亚全景"
+		
+		key[]: "r_temohaya3"
+        val[]: "特莫哈亚山坡"
+		
+		key[]: "r_quebradas1"
+        val[]: "拉斯克布拉达斯全景"
+		
+		key[]: "r_quebradas2"
+        val[]: "拉斯克布拉达斯河"
+		
+		key[]: "r_mezquital1"
+        val[]: "梅兹奎塔尔谷"
+		
+		key[]: "r_tepe1"
+        val[]: "特佩塔蒂塔谷"
 }
 }

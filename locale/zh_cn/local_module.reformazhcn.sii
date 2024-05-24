@@ -95,6 +95,9 @@ localization_db : .localization
 		key[]: "batopil"
 		val[]: "巴托皮拉斯"
 
+		key[]: "bigbend"
+		val[]: "大本德"
+
 		key[]: "blythe"
 		val[]: "布莱斯"
 
@@ -463,6 +466,9 @@ localization_db : .localization
 
 		key[]: "s_teresa"
 		val[]: "圣特雷莎"
+
+		key[]: "sabinas"
+		val[]: "萨比纳斯"
 
 		key[]: "salinas"
 		val[]: "萨利纳斯"
