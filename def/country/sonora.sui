@@ -17,6 +17,6 @@ country_data : country.data.sonora
 	driving_tired_offence: false
 	
 	time_zone: -360		# -6 hours in minutes
-	time_zone_name: "@@CDT@@"
+	time_zone_name: "@@tz_cdt@@"
 }
 
