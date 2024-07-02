@@ -6,10 +6,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "2.7.4"
+	package_version: "2.7.4-RP"
 
 	# Display name can be any string with any length.
-	display_name: "Reforma Chinese (Simplified) City Name 2.7.4"
+	display_name: "Reforma Chinese (Simplified) City Name 2.7.4-RP"
 
 	# Author can be any string with any length.
 	author: "OKHI233"
