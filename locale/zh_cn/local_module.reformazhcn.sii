@@ -285,7 +285,7 @@ localization_db : .localization
 		val[]: "格雷罗内格罗"
 
 		key[]: "h_nogales"
-		val[]: "英雄诺加莱斯"
+		val[]: "诺加莱斯"
 
 		key[]: "hermosillo"
 		val[]: "埃莫西约"
@@ -318,7 +318,7 @@ localization_db : .localization
 		val[]: "耶苏斯玛丽亚"
 
 		key[]: "jimenez"
-		val[]: "希门尼斯城"
+		val[]: "希门尼斯"
 
 		key[]: "juanlag"
 		val[]: "圣胡安德洛斯拉各斯"
@@ -396,7 +396,7 @@ localization_db : .localization
 		val[]: "新卡萨斯格兰德斯"
 
 		key[]: "nvo_vallarta"
-		val[]: "新巴亚尔塔"
+		val[]: "新纳亚里特"
 
 		key[]: "ocampoc"
 		val[]: "欧堪波"
