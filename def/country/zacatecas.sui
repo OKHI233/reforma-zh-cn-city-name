@@ -6,6 +6,7 @@ country_data: country.data.zacatecas
 	name: "Zacatecas"
 	name_localized: "@@zacatecasc@@"
 	country_code: "ZAC.MX"
+	iso_country_code: mex
 
 	pos:(-37000, 0, 87000)
 
