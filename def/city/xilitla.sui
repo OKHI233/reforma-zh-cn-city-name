@@ -3,16 +3,7 @@ city_data: city.xilitla
 	city_name: "Xilitla"
 	city_name_localized: "@@xilitla@@"
 	country: sanluis
-
-	city_pin_scale_factor[]: 0.95
-	city_pin_scale_factor[]: 0.85
-	city_pin_scale_factor[]: 0.8
-	city_pin_scale_factor[]: 0.75
-	
-	city_pin_scale_factor[]: 0.95
-	city_pin_scale_factor[]: 0.85
-	city_pin_scale_factor[]: 0.8
-	city_pin_scale_factor[]: 0.75
+	population: 50000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

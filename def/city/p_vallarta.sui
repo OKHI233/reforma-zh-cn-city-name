@@ -3,16 +3,7 @@ city_data: city.p_vallarta
 	city_name: "Puerto Vallarta"
 	city_name_localized: "@@p_vallarta@@"
 	country: jalisco
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 230000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

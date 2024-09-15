@@ -3,16 +3,7 @@ city_data: city.quartzsite
 	city_name: "Quartzsite"
 	city_name_localized: "@@quartzsite@@"
 	country: arizona
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 2500
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

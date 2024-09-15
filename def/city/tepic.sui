@@ -3,16 +3,7 @@ city_data: city.tepic
 	city_name: "Tepic"
 	city_name_localized: "@@tepic@@"
 	country: nayarit
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 370000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

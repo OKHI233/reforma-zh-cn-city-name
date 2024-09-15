@@ -3,16 +3,7 @@ city_data: city.yecora
 	city_name: "Yécora"
 	city_name_localized: "@@yecora@@"
 	country: sonora
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 6000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

@@ -3,16 +3,7 @@ city_data: city.matehuala
 	city_name: "Matehuala"
 	city_name_localized: "@@matehuala@@"
 	country: sanluis
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 90000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

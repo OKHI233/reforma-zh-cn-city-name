@@ -3,16 +3,7 @@ city_data: city.navojoa
 	city_name: "Navojoa"
 	city_name_localized: "@@navojoa@@"
 	country: sonora
-
-	city_pin_scale_factor[]: 0.95
-	city_pin_scale_factor[]: 0.85
-	city_pin_scale_factor[]: 0.8
-	city_pin_scale_factor[]: 0.75
-	
-	city_pin_scale_factor[]: 0.95
-	city_pin_scale_factor[]: 0.85
-	city_pin_scale_factor[]: 0.8
-	city_pin_scale_factor[]: 0.75
+	population: 120000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

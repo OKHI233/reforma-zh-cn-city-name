@@ -3,16 +3,7 @@ city_data: city.vdurango
 	city_name: "Durango"
 	city_name_localized: "@@vdurango@@"
 	country: durango
-
-	city_pin_scale_factor[]: 1.3
-	city_pin_scale_factor[]: 1.25
-	city_pin_scale_factor[]: 1.25
-	city_pin_scale_factor[]: 1.2
-	
-	city_pin_scale_factor[]: 1.3
-	city_pin_scale_factor[]: 1.25
-	city_pin_scale_factor[]: 1.25
-	city_pin_scale_factor[]: 1.2
+	population: 620000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

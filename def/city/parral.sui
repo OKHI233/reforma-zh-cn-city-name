@@ -3,16 +3,7 @@ city_data: city.parral
 	city_name: "Parral"
 	city_name_localized: "@@parral@@"
 	country: chihuah
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 110000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

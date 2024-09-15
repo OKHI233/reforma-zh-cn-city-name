@@ -3,16 +3,7 @@ city_data: city.punta_abreo
 	city_name: "Punta Abreojos"
 	city_name_localized: "@@punta_abreo@@"
 	country: bajacalisu
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 1000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
