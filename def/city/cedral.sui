@@ -3,16 +3,7 @@ city_data: city.cedral
 	city_name: "Cedral"
 	city_name_localized: "@@cedral@@"
 	country: sanluis
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 13000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

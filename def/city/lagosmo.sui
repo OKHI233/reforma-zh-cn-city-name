@@ -3,16 +3,7 @@ city_data: city.lagosmo
 	city_name: "Lagos de Moreno"
 	city_name_localized: "@@lagosmo@@"
 	country: jalisco
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 120000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

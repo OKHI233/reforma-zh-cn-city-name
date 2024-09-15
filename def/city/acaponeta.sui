@@ -3,16 +3,7 @@ city_data: city.acaponeta
 	city_name: "Acaponeta"
 	city_name_localized: "@@acaponeta@@"
 	country: nayarit
-
-	city_pin_scale_factor[]: 0.95
-	city_pin_scale_factor[]: 0.85
-	city_pin_scale_factor[]: 0.8
-	city_pin_scale_factor[]: 0.75
-	
-	city_pin_scale_factor[]: 0.95
-	city_pin_scale_factor[]: 0.85
-	city_pin_scale_factor[]: 0.8
-	city_pin_scale_factor[]: 0.75
+	population: 20000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

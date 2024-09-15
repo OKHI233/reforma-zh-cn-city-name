@@ -1,18 +1,9 @@
 city_data: city.conchaoro
 {
-	city_name: "Concepción del Oro"
+	city_name: "Concepcion del Oro"
 	city_name_localized: "@@conchaoro@@"
 	country: zacatecas
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 10000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

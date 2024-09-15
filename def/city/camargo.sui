@@ -3,16 +3,7 @@ city_data: city.camargo
 	city_name: "Camargo"
 	city_name_localized: "@@camargo@@"
 	country: chihuah
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 50000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

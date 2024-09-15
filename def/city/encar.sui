@@ -3,16 +3,7 @@ city_data: city.encar
 	city_name: "Encarnación de Díaz"
 	city_name_localized: "@@encar@@"
 	country: jalisco
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 30000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

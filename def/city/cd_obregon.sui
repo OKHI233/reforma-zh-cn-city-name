@@ -1,18 +1,9 @@
 city_data: city.cd_obregon
 {
-	city_name: "Ciudad Obregón"
+	city_name: "Ciudad Obregon"
 	city_name_localized: "@@cd_obregon@@"
 	country: sonora
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 330000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

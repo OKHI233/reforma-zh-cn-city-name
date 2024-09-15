@@ -1,18 +1,9 @@
 city_data: city.gomez_p
 {
-	city_name: "Gómez Palacio"
+	city_name: "Gomez Palacio"
 	city_name_localized: "@@gomez_p@@"
 	country: durango
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 300000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

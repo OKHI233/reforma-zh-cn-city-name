@@ -1,18 +1,9 @@
 city_data: city.autlan
 {
-	city_name: "Autlán"
+	city_name: "Autlan"
 	city_name_localized: "@@autlan@@"
 	country: jalisco
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 50000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

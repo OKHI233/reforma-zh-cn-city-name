@@ -3,16 +3,7 @@ city_data: city.boquill
 	city_name: "Boquillas del Carmen"
 	city_name_localized: "@@boquill@@"
 	country: coahuil
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 100
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

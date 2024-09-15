@@ -1,18 +1,9 @@
 city_data: city.bahia_tortu
 {
-	city_name: "Bahía Tortugas"
+	city_name: "Bahia Tortugas"
 	city_name_localized: "@@bahia_tortu@@"
 	country: bajacalisu
-
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
-	
-	city_pin_scale_factor[]: 0.9
-	city_pin_scale_factor[]: 0.75
-	city_pin_scale_factor[]: 0.7
-	city_pin_scale_factor[]: 0.6
+	population: 3000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

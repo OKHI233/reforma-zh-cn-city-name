@@ -3,16 +3,7 @@ city_data: city.delicias
 	city_name: "Delicias"
 	city_name_localized: "@@delicias@@"
 	country: chihuah
-
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
-	city_pin_scale_factor[]: 1.0
+	population: 130000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

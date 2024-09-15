@@ -1,18 +1,9 @@
 city_data: city.cdacuna
 {
-	city_name: "Ciudad Acuña"
+	city_name: "Ciudad Acuna"
 	city_name_localized: "@@cdacuna@@"
 	country: coahuil
-
-	city_pin_scale_factor[]: 1
-	city_pin_scale_factor[]: 1
-	city_pin_scale_factor[]: 1
-	city_pin_scale_factor[]: 1
-	
-	city_pin_scale_factor[]: 1
-	city_pin_scale_factor[]: 1
-	city_pin_scale_factor[]: 1
-	city_pin_scale_factor[]: 1
+	population: 170000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

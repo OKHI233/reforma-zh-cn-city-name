@@ -1,8 +1,9 @@
 city_data: city.cdguz
 {
-	city_name: "Cd. Guzman"
+	city_name: "Cd Guzman"
 	city_name_localized: "@@cdguz@@"
 	country: jalisco
+	population: 120000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
