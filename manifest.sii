@@ -6,10 +6,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "2.7.7"
+	package_version: "2.7.8"
 
 	# Display name can be any string with any length.
-	display_name: "Reforma Chinese (Simplified) City Name 2.7.7"
+	display_name: "Reforma Chinese (Simplified) City Name 2.7.8"
 
 	# Author can be any string with any length.
 	author: "OKHI233"
@@ -24,7 +24,7 @@ mod_package : .package_name
 	description_file: "description.txt"
 
 	 
-	compatible_versions[]: "1.51.*" # Mod is compatible with 1.51.X..
+	compatible_versions[]: "1.52.*" # Mod is compatible with 1.52.X..
 
 	mp_mod_optional: true
 	
