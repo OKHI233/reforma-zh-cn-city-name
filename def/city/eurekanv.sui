@@ -3,6 +3,7 @@ city_data : city.eurekanv
 	city_name: "Eureka"
 	city_name_localized: "@@eurekanv@@"
 	country: nevada
+	population: 300
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

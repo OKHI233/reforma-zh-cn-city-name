@@ -3,6 +3,7 @@ city_data : city.fallon
 	city_name: "Fallon"
 	city_name_localized: "@@fallon@@"
 	country: nevada
+	population: 10000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

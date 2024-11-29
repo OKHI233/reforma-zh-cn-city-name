@@ -3,6 +3,7 @@ city_data : city.lonepine
 	city_name: "Lone Pine"
 	city_name_localized: "@@lonepine@@"
 	country: california
+	population: 1500
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

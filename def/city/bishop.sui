@@ -3,6 +3,7 @@ city_data : city.bishop
 	city_name: "Bishop"
 	city_name_localized: "@@bishop@@"
 	country: california
+	population: 4000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

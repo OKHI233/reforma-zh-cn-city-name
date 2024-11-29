@@ -3,6 +3,7 @@ city_data : city.sonoraca
 	city_name: "Sonora"
 	city_name_localized: "@@sonoraca@@"
 	country: california
+	population: 5000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

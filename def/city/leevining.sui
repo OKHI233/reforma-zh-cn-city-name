@@ -3,6 +3,7 @@ city_data : city.leevining
 	city_name: "Lee Vining"
 	city_name_localized: "@@leevining@@"
 	country: california
+	population: 600
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

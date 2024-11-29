@@ -3,6 +3,7 @@ city_data : city.ltahoe
 	city_name: "S. Lake Tahoe"
 	city_name_localized: "@@ltahoe@@"
 	country: california
+	population: 20000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

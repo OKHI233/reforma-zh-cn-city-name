@@ -3,6 +3,7 @@ city_data : city.redbluff
 	city_name: "Red Bluff"
 	city_name_localized: "@@redbluff@@"
 	country: california
+	population: 20000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

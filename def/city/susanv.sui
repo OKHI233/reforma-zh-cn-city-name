@@ -3,6 +3,7 @@ city_data : city.susanv
 	city_name: "Susanville"
 	city_name_localized: "@@susanv@@"
 	country: california
+	population: 15000
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

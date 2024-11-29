@@ -3,6 +3,7 @@ city_data : city.austinv
 	city_name: "Austin"
 	city_name_localized: "@@austinv@@"
 	country: nevada
+	population: 20
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0

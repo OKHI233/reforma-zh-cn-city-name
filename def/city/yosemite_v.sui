@@ -3,6 +3,7 @@ city_data : city.yosemite_v
 	city_name: "Yosemite Valley"
 	city_name_localized: "@@yosemite_v@@"
 	country: california
+	population: 400
 
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
