@@ -6,10 +6,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "2.7.8"
+	package_version: "2.8.1"
 
 	# Display name can be any string with any length.
-	display_name: "Reforma Chinese (Simplified) City Name 2.7.8"
+	display_name: "Reforma Chinese (Simplified) City Name 2.8.1"
 
 	# Author can be any string with any length.
 	author: "OKHI233"
@@ -24,12 +24,12 @@ mod_package : .package_name
 	description_file: "description.txt"
 
 	 
-	compatible_versions[]: "1.52.*" # Mod is compatible with 1.52.X..
+	compatible_versions[]: "1.53.*" # Mod is compatible with 1.53.X..
 
 	mp_mod_optional: true
 	
-	dlc_dependencies[]: "dlc_arizona"
 	dlc_dependencies[]: "dlc_nevada"
+	dlc_dependencies[]: "dlc_arizona"
 	dlc_dependencies[]: "dlc_nm"
 	dlc_dependencies[]: "dlc_or"
 	dlc_dependencies[]: "dlc_wa"
@@ -39,6 +39,9 @@ mod_package : .package_name
 	dlc_dependencies[]: "dlc_wy"
 	dlc_dependencies[]: "dlc_mt"
 	dlc_dependencies[]: "dlc_tx"
+	dlc_dependencies[]: "dlc_ok"
+	dlc_dependencies[]: "dlc_ks"
+	dlc_dependencies[]: "dlc_ne"
 
 }
 }
