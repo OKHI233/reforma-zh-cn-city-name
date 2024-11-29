@@ -98,9 +98,6 @@ localization_db : .localization
 		key[]: "bigbend"
 		val[]: "大本德"
 
-		key[]: "blythe"
-		val[]: "布莱斯"
-
 		key[]: "bnavidad"
 		val[]: "巴拉德纳维达"
 
@@ -301,9 +298,6 @@ localization_db : .localization
 
 		key[]: "illescas"
 		val[]: "伊列斯卡斯"
-
-		key[]: "indio"
-		val[]: "印第奥"
 
 		key[]: "ixtlan_rio"
 		val[]: "伊斯特兰德尔里奥"

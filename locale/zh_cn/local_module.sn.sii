@@ -6,7 +6,7 @@ localization_db : .localization
         val[]: "索诺拉山口"
 		
 		key[]: "r_tahoel"
-        val[]: "塔霍湖"
+        val[]: "太浩湖"
 		
 		key[]: "r_emerald"
         val[]: "翡翠湾"
