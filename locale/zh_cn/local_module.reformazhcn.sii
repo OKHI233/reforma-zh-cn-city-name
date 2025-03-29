@@ -62,8 +62,14 @@ localization_db : .localization
 		key[]: "aldama"
 		val[]: "胡安阿尔达玛"
 
+		key[]: "allende"
+		val[]: "阿连德"
+
 		key[]: "ameca"
 		val[]: "阿美卡"
+
+		key[]: "apodaca"
+		val[]: "阿波达卡"
 
 		key[]: "aquismon"
 		val[]: "阿奎斯蒙"
@@ -236,6 +242,9 @@ localization_db : .localization
 		key[]: "ensenada"
 		val[]: "恩森那达"
 
+		key[]: "escobedo"
+		val[]: "埃斯科韦多将军镇"
+
 		key[]: "fresnillo"
 		val[]: "弗雷斯尼约"
 
@@ -377,6 +386,9 @@ localization_db : .localization
 		key[]: "monclova"
 		val[]: "蒙克洛瓦"
 
+		key[]: "monterrey"
+		val[]: "蒙特雷"
+
 		key[]: "muzquiz"
 		val[]: "穆兹奎兹"
 
@@ -458,11 +470,17 @@ localization_db : .localization
 		key[]: "rioverde"
 		val[]: "里奥韦尔德"
 
+		key[]: "rosarito"
+		val[]: "罗萨里多"
+
 		key[]: "s_teresa"
 		val[]: "圣特雷莎"
 
 		key[]: "sabinas"
 		val[]: "萨比纳斯"
+
+		key[]: "sabinhgo"
+		val[]: "萨维纳斯伊达尔戈"
 
 		key[]: "salinas"
 		val[]: "萨利纳斯"
@@ -500,6 +518,9 @@ localization_db : .localization
 		key[]: "spedroc"
 		val[]: "圣佩德罗"
 
+		key[]: "stacata"
+		val[]: "圣卡塔琳娜"
+
 		key[]: "stamaoro"
 		val[]: "圣玛丽亚德尔奥罗"
 
@@ -517,6 +538,9 @@ localization_db : .localization
 
 		key[]: "tamuin"
 		val[]: "塔穆因"
+
+		key[]: "tecate"
+		val[]: "特卡特"
 
 		key[]: "tecuala"
 		val[]: "特夸拉"
