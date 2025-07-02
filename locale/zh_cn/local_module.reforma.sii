@@ -12,7 +12,7 @@ localization_db : .localization
         val[]: "图图阿卡自然保护区"
 		
 		key[]: "r_pinos"
-        val[]: "皮诺斯阿尔托斯矿"
+        val[]: "皮诺斯阿尔托斯矿场"
 		
 		key[]: "r_mirab"
         val[]: "巴萨赛奇观景点"
@@ -27,7 +27,7 @@ localization_db : .localization
         val[]: "西马德雷山脉"
 		
 		key[]: "r_divi"
-        val[]: "黄铜谷"
+        val[]: "铜谷"
 		
 		key[]: "r_uriquem"
         val[]: "乌里克观景点"
@@ -81,10 +81,10 @@ localization_db : .localization
         val[]: "巴萨赛奇瀑布"
 		
 		key[]: "r_cananeam"
-        val[]: "卡纳内阿矿"
+        val[]: "卡纳内阿矿场"
 		
 		key[]: "r_caridad"
-        val[]: "拉卡里达矿"
+        val[]: "拉卡里达矿场"
 		
 		key[]: "r_gmexico"
         val[]: "墨西哥集团工厂"
@@ -96,7 +96,7 @@ localization_db : .localization
         val[]: "尤里基帕山脉"
 		
 		key[]: "r_mmaria"
-        val[]: "玛丽亚矿"
+        val[]: "玛丽亚矿场"
 		
 		key[]: "r_pinito"
         val[]: "埃尔皮尼托山脉"
@@ -120,7 +120,7 @@ localization_db : .localization
         val[]: "圣路易斯山口"
 		
 		key[]: "r_culiacanl"
-        val[]: "库利亚坎沃尔伯特配送中心"
+        val[]: "库利亚坎Walbert配送中心"
 		
 		key[]: "r_culiacan2"
         val[]: "库利亚坎德罗萨莱斯市"
