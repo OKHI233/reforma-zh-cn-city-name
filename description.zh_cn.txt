@@ -1,0 +1,10 @@
+[orange]Reforma中文（简体）城市名 2.8.7
+[normal]一个让中文（简体）本地化起作用的Reforma小插件...
+[normal]您需要在mod管理器中将其放置于Reforma上方。
+[normal]您可以使用下方的链接与其他人分享此mod。
+[blue]https://truckymods.io/american-truck-simulator/map-patches/reforma-chinese-simplified-city-name 
+
+[normal]本mod的内容采用CC BY-NC-SA 4.0许可协议授权。
+[blue]https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
+[normal]Copyright © 2022-2025 OKHI233
+[normal]本mod基于Reforma：[blue]https://reformaats.com/home
