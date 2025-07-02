@@ -1,7 +1,7 @@
 [orange]Reforma Chinese (Simplified) City Name 2.9.2
 [normal]A little add-on for Reforma that makes Chinese (Simplified) localization works...
 [normal]You need to put it above Reforma in the mod manager.
-[normal]You can share this mod to others with the link below.
+[normal]You can share this mod with the link below.
 [blue]https://truckymods.io/american-truck-simulator/map-patches/reforma-chinese-simplified-city-name
 
 [normal]This mod is licensed under CC BY-NC-SA 4.0.
