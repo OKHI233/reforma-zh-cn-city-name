@@ -24,7 +24,7 @@ city_data: city.tijuana
 	map_y_offsets[]: 0
 
 
-	vehicle_brands[]: "kenworth"
+	vehicle_brands[]: "intnational"
 
 }
 
