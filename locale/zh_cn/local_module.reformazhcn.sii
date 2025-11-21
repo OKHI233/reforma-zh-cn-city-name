@@ -40,6 +40,9 @@ localization_db : .localization
 		key[]: "sonora"
 		val[]: "索诺拉州"
 
+		key[]: "tamaulipas"
+		val[]: "塔毛利帕斯州"
+
 		key[]: "zacatecasc"
 		val[]: "萨卡特卡斯州"
 
@@ -163,6 +166,12 @@ localization_db : .localization
 
 		key[]: "cdguz"
 		val[]: "古斯曼城"
+
+		key[]: "cdmante"
+		val[]: "曼特城"
+
+		key[]: "cdvictoria"
+		val[]: "维多利亚城"
 
 		key[]: "cedral"
 		val[]: "赛德拉尔"
@@ -359,6 +368,9 @@ localization_db : .localization
 		key[]: "mascota"
 		val[]: "马斯科塔"
 
+		key[]: "matamoros"
+		val[]: "马塔莫罗斯"
+
 		key[]: "matehuala"
 		val[]: "马特瓦拉"
 
@@ -400,6 +412,9 @@ localization_db : .localization
 
 		key[]: "nvo_casas"
 		val[]: "新卡萨斯格兰德斯"
+
+		key[]: "nvo_laredo"
+		val[]: "新拉雷多"
 
 		key[]: "nvo_vallarta"
 		val[]: "新纳亚里特"
@@ -464,6 +479,9 @@ localization_db : .localization
 		key[]: "refugio"
 		val[]: "埃尔雷希奥"
 
+		key[]: "reynosa"
+		val[]: "雷诺萨"
+
 		key[]: "riogrande"
 		val[]: "里奥格兰德"
 
@@ -509,11 +527,17 @@ localization_db : .localization
 		key[]: "santiagopap"
 		val[]: "圣地亚哥帕帕斯基亚罗"
 
+		key[]: "sfernando"
+		val[]: "圣费尔南多"
+
 		key[]: "sombre"
 		val[]: "桑布雷特"
 
 		key[]: "sonoyta"
 		val[]: "索诺伊塔"
+
+		key[]: "sotola"
+		val[]: "索托拉马里纳"
 
 		key[]: "spedroc"
 		val[]: "圣佩德罗"
@@ -535,6 +559,9 @@ localization_db : .localization
 
 		key[]: "tamazunchale"
 		val[]: "塔玛祖查莱"
+
+		key[]: "tampico"
+		val[]: "坦皮科"
 
 		key[]: "tamuin"
 		val[]: "塔穆因"
