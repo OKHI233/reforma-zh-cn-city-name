@@ -1,4 +1,4 @@
-[orange]Reforma Chinese (Simplified) City Name 2.9.4.1
+[orange]Reforma Chinese (Simplified) City Name 2.9.6
 [normal]A little add-on for Reforma that makes Chinese (Simplified) localization works...
 [normal]You need to put it above Reforma in the mod manager.
 [normal]You can share this mod with the link below.
