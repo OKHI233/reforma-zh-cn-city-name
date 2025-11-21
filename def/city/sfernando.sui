@@ -1,10 +1,10 @@
-city_data: city.escobedo
+city_data: city.sfernando
 {
-	city_name: "Escobedo"
-	city_name_localized: "@@escobedo@@"
-	country: nvoleon
-	population: 480000
-
+	city_name: "San Fernando"
+	city_name_localized: "@@sfernando@@"
+	country: tamaulipas
+	population: 20000
+	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
@@ -23,6 +23,6 @@ city_data: city.escobedo
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 
-	vehicle_brands[]: "freightliner"
 
 }
+
