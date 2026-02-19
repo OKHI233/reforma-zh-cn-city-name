@@ -19,17 +19,29 @@ localization_db : .localization
 		key[]: "coahuil"
 		val[]: "科阿韦拉州"
 
+		key[]: "colima"
+		val[]: "科利马州"
+
 		key[]: "durangoc"
 		val[]: "杜兰戈州"
 
+		key[]: "guanajua"
+		val[]: "瓜纳华托州"
+
 		key[]: "jalisco"
 		val[]: "哈利斯科州"
+
+		key[]: "michoac"
+		val[]: "米却肯州"
 
 		key[]: "nayarit"
 		val[]: "纳亚里特州"
 
 		key[]: "nvoleon"
 		val[]: "新莱昂州"
+
+		key[]: "queretaro"
+		val[]: "克雷塔罗州"
 
 		key[]: "sanluis"
 		val[]: "圣路易斯波托西州"
@@ -40,8 +52,11 @@ localization_db : .localization
 		key[]: "sonora"
 		val[]: "索诺拉州"
 
-		key[]: "tamaulipas"
+		key[]: "tamaulip"
 		val[]: "塔毛利帕斯州"
+
+		key[]: "veracruz"
+		val[]: "韦拉克鲁斯州"
 
 		key[]: "zacatecasc"
 		val[]: "萨卡特卡斯州"
