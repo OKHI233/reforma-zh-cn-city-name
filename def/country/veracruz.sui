@@ -1,14 +1,14 @@
 
-country_data: country.data.nvoleon
+country_data: country.data.veracruz
 {
-	country_id: 113
+	country_id: 117	
 	
-	name: "Nuevo León"
-	name_localized: "@@nvoleon@@"
-	country_code: "NL.MX"
+	name: "Veracruz"
+	name_localized: "@@veracruz@@"
+	country_code: "VER.MX"
 	iso_country_code: mex
 
-	pos:(-18900, 0, 75540)
+	pos:(405, 0, 112894)
 
 	fuel_price: 0.88735	# $3.359/gallon = 0.88735/litre
 
@@ -28,6 +28,5 @@ country_data: country.data.nvoleon
 	mass_limit_per_axle_count[]: 50575.6	# 111500 lb
 	mass_limit_per_axle_count[]: 53070.4	# 117000 lb
 
-	
 }
 

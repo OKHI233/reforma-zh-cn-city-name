@@ -1,14 +1,14 @@
 
-country_data: country.data.nvoleon
+country_data: country.data.guanajua
 {
-	country_id: 113
+	country_id: 115	
 	
-	name: "Nuevo León"
-	name_localized: "@@nvoleon@@"
-	country_code: "NL.MX"
+	name: "Guanajuato"
+	name_localized: "@@guanajua@@"
+	country_code: "GTO.MX"
 	iso_country_code: mex
 
-	pos:(-18900, 0, 75540)
+	pos:(-27766, 0, 104478)
 
 	fuel_price: 0.88735	# $3.359/gallon = 0.88735/litre
 
