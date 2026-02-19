@@ -1,4 +1,4 @@
-[orange]Reforma Chinese (Simplified) City Name 2.9.6
+[orange]Reforma Chinese (Simplified) City Name 2.9.7
 [normal]A little add-on for Reforma that makes Chinese (Simplified) localization works...
 [normal]You need to put it above Reforma in the mod manager.
 [normal]You can share this mod with the link below.
@@ -6,5 +6,5 @@
 
 [normal]This mod is licensed under CC BY-NC-SA 4.0.
 [blue]https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
-[normal]Copyright © 2022-2025 OKHI233
+[normal]Copyright © 2022-2026 OKHI233
 [normal]This mod is based on Reforma: [blue]https://reformaats.com/home
