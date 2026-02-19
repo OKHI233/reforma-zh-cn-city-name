@@ -2,7 +2,7 @@ city_data: city.matamoros
 {
 	city_name: "Matamoros"
 	city_name_localized: "@@matamoros@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 300000
 	
 	map_x_offsets[]: 0

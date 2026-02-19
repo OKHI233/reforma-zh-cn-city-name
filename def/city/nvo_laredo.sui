@@ -2,7 +2,7 @@ city_data: city.nvo_laredo
 {
 	city_name: "Nuevo Laredo"
 	city_name_localized: "@@nvo_laredo@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 400000
 	
 	map_x_offsets[]: 0

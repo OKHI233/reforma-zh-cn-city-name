@@ -2,7 +2,7 @@ city_data: city.cdvictoria
 {
 	city_name: "Cd. Victoria"
 	city_name_localized: "@@cdvictoria@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 300000
 	
 	map_x_offsets[]: 0

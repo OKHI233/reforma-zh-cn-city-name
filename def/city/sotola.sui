@@ -2,7 +2,7 @@ city_data: city.sotola
 {
 	city_name: "Soto la Marina"
 	city_name_localized: "@@sotola@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 5000
 	
 	map_x_offsets[]: 0

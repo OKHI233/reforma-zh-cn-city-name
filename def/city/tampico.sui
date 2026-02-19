@@ -2,7 +2,7 @@ city_data: city.tampico
 {
 	city_name: "Tampico"
 	city_name_localized: "@@tampico@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 300000
 	
 	map_x_offsets[]: 0

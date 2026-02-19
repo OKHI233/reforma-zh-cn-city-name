@@ -2,7 +2,7 @@ city_data: city.cdmante
 {
 	city_name: "Ciudad Mante"
 	city_name_localized: "@@cdmante@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 30000
 	
 	map_x_offsets[]: 0

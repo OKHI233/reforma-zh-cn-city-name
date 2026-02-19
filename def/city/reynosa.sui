@@ -2,7 +2,7 @@ city_data: city.reynosa
 {
 	city_name: "Reynosa"
 	city_name_localized: "@@reynosa@@"
-	country: tamaulipas
+	country: tamaulip
 	population: 400000
 	
 	map_x_offsets[]: 0
