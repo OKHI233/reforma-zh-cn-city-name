@@ -22,6 +22,8 @@ city_data: city.nvo_laredo
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
+	
+	vehicle_brands[]: "mack"
 
 
 }
