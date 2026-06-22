@@ -647,6 +647,9 @@ localization_db : .localization
 		key[]: "villanueva"
 		val[]: "比利亚努埃瓦"
 
+		key[]: "vizcaino"
+		val[]: "比斯开诺"
+
 		key[]: "vreyes"
 		val[]: "雷耶斯镇"
 
