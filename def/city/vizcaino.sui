@@ -1,9 +1,9 @@
-city_data: city.punta_prieta
+city_data: city.vizcaino
 {
-	city_name: "Punta Prieta"
-	city_name_localized: "@@punta_prieta@@"
-	country: bajacalifo
-	population: 100
+	city_name: "Vizcaino"
+	city_name_localized: "@@vizcaino@@"
+	country: bajacalisu
+	population: 20000
 	
 	map_x_offsets[]: 0
 	map_x_offsets[]: 0
@@ -22,6 +22,8 @@ city_data: city.punta_prieta
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
+
+	vehicle_brands[]: "freightliner"
 
 }
 
