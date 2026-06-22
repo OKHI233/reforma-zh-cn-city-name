@@ -1,4 +1,4 @@
-[orange]Reforma中文（简体）城市名 2.9.8
+[orange]Reforma中文（简体）城市名 2.9.9
 [normal]一个让中文（简体）本地化起作用的Reforma小插件...
 [normal]您需要在mod管理器中将其放置于Reforma上方。
 [normal]您可以使用下方的链接与其他人分享此mod。
