@@ -1,0 +1,237 @@
+#+ Baja California and Baja California Sur - tourist boards and points of interest.
+#@{
+	key[]: "tb_bcmx1"
+	val[]: "Scenic Highway"
+
+	key[]: "tb_bcmx1_desc"
+	val[]: "The coastal route between Tijuana, Rosarito and Ensenada follows the Pacific past beaches and oceanfront cliffs. Opened in 1967, the scenic toll highway became an important link for tourism and travel along the northern Baja California coast."
+
+	key[]: "poi_bcmx1_01"
+	val[]: "La Escénica"
+
+	key[]: "poi_bcmx1_01_desc"
+	val[]: "Inaugurated in 1967, the Tijuana-Ensenada scenic highway traces a striking route between the coastal hills and the Pacific Ocean. Its curves reveal changing views of rocky headlands, beaches and coastal settlements along one of northern Baja California's main travel corridors."
+
+	key[]: "poi_bcmx1_02"
+	val[]: "Rosarito Overlook"
+
+	key[]: "poi_bcmx1_02_desc"
+	val[]: "Rosarito stretches along a Pacific coastline known for surfing, beachfront hotels and seafood. Nearby Puerto Nuevo is associated with lobster served with flour tortillas and beans, a culinary tradition that complements the beaches and ocean views of this coastal destination."
+
+	key[]: "poi_bcmx1_03"
+	val[]: "Ensenada Viewpoint"
+
+	key[]: "poi_bcmx1_03_desc"
+	val[]: "This panorama introduces Ensenada, a Pacific port city closely linked to maritime activity and the wine valleys of Baja California. The meeting of the urban landscape and the sea reflects the city's role as a coastal destination and a gateway to the surrounding wine country."
+
+	key[]: "poi_bcmx1_04"
+	val[]: "Port of Ensenada"
+
+	key[]: "poi_bcmx1_04_desc"
+	val[]: "Ensenada's waterfront reveals the maritime character of a city that developed around its Pacific harbor. Port facilities and the surrounding urban coastline form a distinctive landscape, where the movement of vessels contrasts with the open horizon and nearby coastal hills."
+
+	key[]: "poi_bcmx1_05"
+	val[]: "Santo Tomás Winery"
+
+	key[]: "poi_bcmx1_05_desc"
+	val[]: "Founded in 1888, Bodegas de Santo Tomás is a historic name in Baja California winemaking. Its origins lie in the Santo Tomás Valley, where the cultivation of grapevines helped establish a wine tradition that remains part of the region's cultural identity."
+
+	key[]: "poi_bcmx1_06"
+	val[]: "Transpeninsular Highway"
+
+	key[]: "poi_bcmx1_06_desc"
+	val[]: "The Transpeninsular Highway links communities across the long Baja California peninsula. Its winding inland sections show how the road adapts to rugged terrain, connecting coastal settlements with valleys and desert landscapes that once made overland travel through the peninsula especially demanding."
+
+	key[]: "tb_bcmx2"
+	val[]: "La Rumorosa"
+
+	key[]: "tb_bcmx2_desc"
+	val[]: "La Rumorosa crosses the rocky landscapes of the Sierra de Juárez between the Tecate highlands and the Mexicali desert. Huge boulders, sweeping views and the sound of the wind define a region whose winding roads have become an emblem of Baja California."
+
+	key[]: "poi_bcmx2_01"
+	val[]: "La Rumorosa's Winding Road"
+
+	key[]: "poi_bcmx2_01_desc"
+	val[]: "Following the slopes of the Sierra de Juárez, this mountain road winds through a landscape of enormous rocks and steep drops. La Rumorosa takes its name from the sound of the wind, a defining feature of the journey between the highlands and the desert."
+
+	key[]: "poi_bcmx2_02"
+	val[]: "Otay Mesa Border Crossing"
+
+	key[]: "poi_bcmx2_02_desc"
+	val[]: "Otay Mesa is a major crossing in the San Diego-Tijuana border region and an important gateway for commercial freight. Its truck inspection facilities connect supply chains on both sides of the border, highlighting the economic ties between Baja California and Southern California."
+
+	key[]: "poi_bcmx2_03"
+	val[]: "Tecate Brewery"
+
+	key[]: "poi_bcmx2_03_desc"
+	val[]: "Tecate's brewing history began in 1944, when an existing industrial building was converted into a brewery. Taking its name from the border town, the beer became a widely recognized Mexican brand and made the brewery an enduring part of the community's industrial identity."
+
+	key[]: "poi_bcmx2_04"
+	val[]: "La Rumorosa Village"
+
+	key[]: "poi_bcmx2_04_desc"
+	val[]: "The village of La Rumorosa sits in the high country near the rocky mountain descent toward Mexicali. Its surroundings combine dramatic viewpoints with cultural attractions such as Campo Alaska and the rock paintings of El Vallecito, reminders of different chapters in the region's history."
+
+	key[]: "poi_bcmx2_05"
+	val[]: "Mexicali"
+
+	key[]: "poi_bcmx2_05_desc"
+	val[]: "Founded on March 14, 1903, Mexicali grew in a desert valley beside the United States border. Its name combines Mexico and California. The city's Chinese heritage, reflected in La Chinesca and local cuisine, forms an important part of its distinctive cultural identity."
+
+	key[]: "tb_bcmx3"
+	val[]: "Gulf of California"
+
+	key[]: "tb_bcmx3_desc"
+	val[]: "The Gulf of California separates the Baja California peninsula from mainland Mexico. Along its shores, desert mountains meet beaches and island-filled waters. The region's remarkable marine and terrestrial diversity is represented in the islands and protected areas recognized by UNESCO."
+
+	key[]: "poi_bcmx3_01"
+	val[]: "San Felipe"
+
+	key[]: "poi_bcmx3_01_desc"
+	val[]: "San Felipe brings together a fishing-town atmosphere and beach tourism on the Gulf of California. The surrounding desert provides a striking contrast with the sea, while the nearby Valle de los Gigantes is known for its towering cardón cacti, characteristic plants of the region."
+
+	key[]: "poi_bcmx3_02"
+	val[]: "Coastal Federal Highway 5"
+
+	key[]: "poi_bcmx3_02_desc"
+	val[]: "Federal Highway 5 connects Mexicali and San Felipe with the Transpeninsular Highway near Laguna Chapala. Along its coastal stretches, the route reveals the contrast between the Gulf of California and the desert, linking seaside communities with the wider road network of the peninsula."
+
+	key[]: "poi_bcmx3_03"
+	val[]: "La Ventana"
+
+	key[]: "poi_bcmx3_03_desc"
+	val[]: "On the Mexicali-San Felipe route, La Ventana marks a desert landscape of open plains and rocky hills. The nearby salt flats add a pale band to the scenery, contrasting with the surrounding slopes and the winding stretches of highway represented in this part of the map."
+
+	key[]: "poi_bcmx3_04"
+	val[]: "El Salar"
+
+	key[]: "poi_bcmx3_04_desc"
+	val[]: "Near La Ventana on the Mexicali-San Felipe highway, El Salar stands out for its broad, pale surface against the desert hills. Salt flats form where evaporation leaves dissolved salts behind, creating a distinctive landscape whose appearance changes with moisture and the angle of sunlight."
+
+	key[]: "tb_bcmx4"
+	val[]: "Valle de los Cirios"
+
+	key[]: "tb_bcmx4_desc"
+	val[]: "Protected since 1980, Valle de los Cirios preserves extensive desert landscapes in central Baja California. Its characteristic plants include cirios, cardón cacti and elephant trees, while its varied terrain provides habitat for wildlife such as bighorn sheep and coyotes."
+
+	key[]: "poi_bcmx4_01"
+	val[]: "El Rosario Canyon"
+
+	key[]: "poi_bcmx4_01_desc"
+	val[]: "Around El Rosario, the road follows a rugged landscape of slopes, gullies and exposed rock. The curves provide changing views of terrain shaped by erosion, introducing the transition from settled valleys to the expansive desert scenery of central Baja California."
+
+	key[]: "poi_bcmx4_02"
+	val[]: "El Rosario Bridge"
+
+	key[]: "poi_bcmx4_02_desc"
+	val[]: "This bridge is a recognizable landmark on the road through El Rosario, linking the local valley with the route into the central peninsula. The surrounding settlement has a long mission-era history: the Dominican mission of El Rosario was established in 1774."
+
+	key[]: "poi_bcmx4_03"
+	val[]: "Valle de los Cirios"
+
+	key[]: "poi_bcmx4_03_desc"
+	val[]: "Cirios give this desert its name and much of its unusual appearance. Their slender, tapering trunks rise among cardón cacti and other drought-adapted plants. Together, these species create a distinctive landscape within one of Baja California's extensive protected natural areas."
+
+	key[]: "poi_bcmx4_04"
+	val[]: "Cataviña"
+
+	key[]: "poi_bcmx4_04_desc"
+	val[]: "Cataviña is surrounded by rounded granite boulders and desert vegetation in the heart of Baja California. Cardón cacti and cirios stand among the rocks, while nearby rock paintings add a cultural dimension to a landscape known for its striking natural forms."
+
+	key[]: "poi_bcmx4_05"
+	val[]: "Valle de los Cirios"
+
+	key[]: "poi_bcmx4_05_desc"
+	val[]: "Beyond its remarkable plants, Valle de los Cirios shelters wildlife adapted to scarce water and harsh desert conditions. Rocky slopes and broad plains form a mosaic of habitats, making the protected area important for conserving the natural diversity of the central peninsula."
+
+	key[]: "tb_bcs1"
+	val[]: "El Vizcaíno"
+
+	key[]: "tb_bcs1_desc"
+	val[]: "El Vizcaíno brings together desert plains, mountains and Pacific coastal lagoons in northern Baja California Sur. Declared a biosphere reserve in 1988, the region is known for its gray whale refuges and the salt-producing landscape around Guerrero Negro."
+
+	key[]: "poi_bcs1_01"
+	val[]: "Guerrero Negro Saltworks"
+
+	key[]: "poi_bcs1_01_desc"
+	val[]: "Established in 1954, Exportadora de Sal helped shape the development of Guerrero Negro. Seawater is concentrated through solar evaporation to obtain salt, producing the broad evaporation ponds and pale expanses that give the surrounding industrial landscape its distinctive appearance."
+
+	key[]: "poi_bcs1_02"
+	val[]: "El Vizcaíno Biosphere Reserve"
+
+	key[]: "poi_bcs1_02_desc"
+	val[]: "Declared on November 30, 1988, El Vizcaíno Biosphere Reserve protects desert plains, mountain ranges and coastal ecosystems. Its Ojo de Liebre and San Ignacio lagoons are internationally recognized gray whale refuges, illustrating the close connection between the peninsula's arid land and its rich coastal waters."
+
+	key[]: "poi_bcs1_03"
+	val[]: "Punta Abreojos"
+
+	key[]: "poi_bcs1_03_desc"
+	val[]: "Punta Abreojos is a Pacific fishing community whose identity is closely tied to the sea. Lobster and abalone are central to its fishing tradition, and cooperative organization has played an important role in local livelihoods and the management of these valuable marine resources."
+
+	key[]: "poi_bcs1_04"
+	val[]: "Las Tres Vírgenes"
+
+	key[]: "poi_bcs1_04_desc"
+	val[]: "Las Tres Vírgenes is a volcanic complex formed by three volcanoes aligned across the desert: El Viejo, El Azufre and La Virgen. Their prominent silhouettes distinguish this part of Baja California Sur and reveal the volcanic origins of a landscape shaped by lava and erosion."
+
+	key[]: "tb_bcs2"
+	val[]: "Sea of Cortez"
+
+	key[]: "tb_bcs2_desc"
+	val[]: "Along this stretch of the Sea of Cortez, desert hills descend toward sheltered coves and turquoise waters. Bahía Concepción brings together beaches such as Santispac and El Requesón, creating a coastal landscape where the road alternates between rocky slopes and broad views of the bay."
+
+	key[]: "poi_bcs2_01"
+	val[]: "Santispac Beach"
+
+	key[]: "poi_bcs2_01_desc"
+	val[]: "Santispac is one of the best-known beaches of Bahía Concepción, south of Mulegé. Its sheltered setting combines pale sand, coastal vegetation and nearby mangroves, offering a vivid contrast with the arid hills that surround this stretch of the Sea of Cortez."
+
+	key[]: "poi_bcs2_02"
+	val[]: "Flora de la Rosa"
+
+	key[]: "poi_bcs2_02_desc"
+	val[]: "This coastal scene highlights the contrast between wetland vegetation and the surrounding desert. In coastal wetlands, the availability of water and the salinity of the soil help determine which plants can grow, creating a different landscape from the dry hills inland."
+
+	key[]: "poi_bcs2_03"
+	val[]: "El Requesón Beach"
+
+	key[]: "poi_bcs2_03_desc"
+	val[]: "El Requesón is a distinctive beach in Bahía Concepción, known for a sandy spit leading toward a small island. The changing tide reshapes the connection between land and water, giving this quiet coastal setting a different appearance throughout the day."
+
+	key[]: "poi_bcs2_04"
+	val[]: "Bahía Concepción Viewpoint"
+
+	key[]: "poi_bcs2_04_desc"
+	val[]: "Bahía Concepción opens into a succession of coves, beaches and rocky headlands south of Mulegé. From the road, the contrast between the dry hills and the blue-green water reveals the distinctive geography of this coastal inlet, home to beaches including Santispac and El Requesón."
+
+	key[]: "tb_bcs3"
+	val[]: "Sierra de la Giganta and Loreto"
+
+	key[]: "tb_bcs3_desc"
+	val[]: "The Sierra de la Giganta forms a dramatic backdrop to Loreto and the Sea of Cortez. Coastal settlements, mountain roads and historic missions give the region its character, linking the maritime scenery around Loreto with inland communities such as San Javier."
+
+	key[]: "poi_bcs3_01"
+	val[]: "Loreto Bay Resort"
+
+	key[]: "poi_bcs3_01_desc"
+	val[]: "Located in Nopoló, Loreto Bay combines a seaside setting with views of the Sierra de la Giganta. Its golf course and landscaped grounds contrast with the surrounding desert, illustrating the meeting of tourism development and the natural scenery of the Loreto coast."
+
+	key[]: "poi_bcs3_02"
+	val[]: "Nopoló Resort Overlook"
+
+	key[]: "poi_bcs3_02_desc"
+	val[]: "Nopoló lies between the Sea of Cortez and the Sierra de la Giganta, near Loreto. This overlook places its resort landscape in a wider setting of mountains and coastline, showing how a narrow coastal strip brings together beaches, landscaped areas and desert terrain."
+
+	key[]: "poi_bcs3_03"
+	val[]: "Sierra de la Giganta"
+
+	key[]: "poi_bcs3_03_desc"
+	val[]: "The mountain road toward San Javier leaves the Loreto coast and enters the rugged interior of the Sierra de la Giganta. Winding curves and rocky slopes frame a journey toward a historic mission community, revealing the contrast between the peninsula's shoreline and its mountain valleys."
+
+	key[]: "poi_bcs3_04"
+	val[]: "San Javier"
+
+	key[]: "poi_bcs3_04_desc"
+	val[]: "San Javier preserves one of the peninsula's notable mission churches in a mountain setting near Loreto. The mission was founded in 1699, and its surviving stone church was completed in 1758. The building recalls the Jesuit period and the communities involved in its construction."
+
+#@}

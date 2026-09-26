@@ -1,0 +1,438 @@
+
+# Chihuahua
+key[]: "chih_pregui_desc"
+val[]: "The Pegüis Canyon is a dramatic gorge carved by the Conchos River near Ojinaga, Chihuahua. Its limestone walls rise above a winding river corridor in the Chihuahuan Desert."
+
+key[]: "chih_chih_desc"
+val[]: "Chihuahua is the capital and largest city of the state of the same name. Its historic center, industry and position on northern Mexico's main routes make it a regional hub."
+
+key[]: "chih_tutu_desc"
+val[]: "Tutuaca is a protected natural area in western Chihuahua. Its mountains, pine-oak forests and deep ravines shelter wildlife typical of the Sierra Madre Occidental."
+
+key[]: "chih_pinos_desc"
+val[]: "Pinos Altos is a historic mining district in the mountains of western Chihuahua. Gold and silver extraction shaped the area's settlements and roads."
+
+key[]: "chih_mirab_desc"
+val[]: "This viewpoint overlooks the wooded Barranca de Candameña and the area around Basaseachi Falls, one of the best-known landscapes in the Sierra Madre Occidental."
+
+key[]: "chih_tara_desc"
+val[]: "The Sierra Tarahumara forms part of the Sierra Madre Occidental in Chihuahua. It is known for vast forests, high plateaus and the canyon country inhabited by the Rarámuri people."
+
+key[]: "chih_creel_desc"
+val[]: "Creel is a mountain town and an important gateway to the Copper Canyon region. Rail travel, Rarámuri culture and nearby rock formations make it a popular base for visitors."
+
+key[]: "chih_sierra_desc"
+val[]: "The Sierra Madre Occidental is an extensive mountain system running through western Mexico. Forested plateaus are cut by deep canyons and volcanic valleys."
+
+key[]: "chih_divi_desc"
+val[]: "The Copper Canyon is a network of large canyons in the Sierra Tarahumara. Viewpoints near Divisadero reveal immense cliffs, forests and valleys crossed by the Chihuahua al Pacífico railway."
+
+key[]: "chih_uriquem_desc"
+val[]: "This viewpoint looks into the Urique Canyon, one of the deepest ravines in the Copper Canyon system, with steep slopes descending toward the Urique River."
+
+key[]: "chih_urique_desc"
+val[]: "Urique lies at the bottom of a deep canyon beside the river of the same name. Its warm climate contrasts with the cool pine-covered highlands above."
+
+key[]: "chih_bato_desc"
+val[]: "Batopilas is a historic mining town set deep in the Sierra Tarahumara. Its narrow streets, old buildings and riverside setting preserve the character of an isolated canyon settlement."
+
+key[]: "chih_batob_desc"
+val[]: "Batopilas Canyon descends from the high forests of Chihuahua to a warm subtropical valley. The winding road reveals steep slopes, cliffs and remote communities."
+
+key[]: "chih_uriqueb_desc"
+val[]: "Urique Canyon is one of the great ravines of the Sierra Tarahumara. The Urique River flows far below high plateaus connected by demanding mountain roads."
+
+key[]: "chih_verde_desc"
+val[]: "The Río Verde crosses rugged country in western Mexico, forming a green river corridor among dry slopes and mountain valleys."
+
+key[]: "chih_deli_desc"
+val[]: "Delicias is an agricultural and industrial city in central Chihuahua. Irrigation transformed the surrounding valley into one of the state's main farming areas."
+
+
+# Durango
+key[]: "dgo_piax_desc"
+val[]: "The Piaxtla Canyon follows the rugged drainage of the Piaxtla River in the Sierra Madre Occidental, where mountain roads cross forests, ravines and remote settlements."
+
+key[]: "dgo_sant_desc"
+val[]: "Santiago Papasquiaro occupies a broad valley surrounded by the mountains of Durango. Agriculture, forestry and regional trade have long shaped the town and its landscape."
+
+
+# Sinaloa
+key[]: "sin_comedero_desc"
+val[]: "The José López Portillo Dam, widely known as El Comedero, holds back the San Lorenzo River in Sinaloa. Its reservoir winds between steep, green mountain slopes."
+
+
+# Durango
+key[]: "dgo_espinazo_desc"
+val[]: "The Espinazo del Diablo is a celebrated mountain section of the Durango-Mazatlán road. Tight curves, deep ravines and changing weather define this crossing of the Sierra Madre Occidental."
+
+key[]: "dgo_baluarte_desc"
+val[]: "The Baluarte Bicentennial Bridge carries the Durango-Mazatlán highway across a deep ravine on the Durango-Sinaloa border. Its tall cable-stayed span is a landmark of the mountain route."
+
+
+# Nayarit
+key[]: "nay_nayar_desc"
+val[]: "The Sierra del Nayar is a rugged region of canyons, rivers and wooded highlands in Nayarit. It is also an important cultural homeland of the Náayeri people."
+
+key[]: "nay_blas_desc"
+val[]: "San Blas is a historic Pacific port in Nayarit. Its pier faces an area known for beaches, mangroves, wetlands and abundant birdlife."
+
+
+# Durango
+key[]: "dgo_pena_desc"
+val[]: "Peña del Águila is a prominent mountain landmark whose rocky summit rises over the surrounding highland landscape."
+
+
+# Zacatecas
+key[]: "zac_morones_desc"
+val[]: "The Sierra de Morones forms a rugged mountainous landscape in southern Zacatecas, with rocky ridges, ravines and seasonal streams."
+
+
+# Chihuahua
+key[]: "chih_basa_desc"
+val[]: "Basaseachi Falls drops from the Duraznos and Basaseachi streams into the Barranca de Candameña. The 246-meter waterfall is one of Mexico's highest and the centerpiece of a national park."
+
+
+# Sonora
+key[]: "son_cananeam_desc"
+val[]: "The Cananea mining district in northern Sonora is closely linked to large-scale copper production. Terraced open pits and processing facilities dominate the industrial landscape."
+
+key[]: "son_caridad_desc"
+val[]: "La Caridad is a large open-pit copper mine near Nacozari de García, Sonora. Its benches, haul roads and processing complex form a vast engineered landscape."
+
+key[]: "son_gmexico_desc"
+val[]: "This industrial complex processes minerals from Sonora's copper-mining region. Large plants, conveyors and storage areas reflect the scale of production around Nacozari."
+
+key[]: "son_nacozari_desc"
+val[]: "Nacozari de García is a mining town in northeastern Sonora. It was renamed in honor of railway engineer Jesús García, remembered for preventing a greater disaster in 1907."
+
+key[]: "son_juriquipa_desc"
+val[]: "The Sierra de Juriquipa is part of the rugged mountain country of northeastern Sonora, where desert foothills rise toward oak and grassland habitats."
+
+key[]: "son_mmaria_desc"
+val[]: "The María Mine is part of northern Sonora's long-established copper-mining region, marked by open workings, service roads and mineral-processing infrastructure."
+
+key[]: "son_pinito_desc"
+val[]: "Sierra El Pinito is one of the isolated mountain ranges that break the desert plains of northern Sonora, creating cooler highland habitats above the valleys."
+
+key[]: "son_cieneguita_desc"
+val[]: "Sierra La Cieneguita rises from the dry landscapes of northern Mexico, adding rocky ridges and elevated grasslands to the surrounding desert scenery."
+
+key[]: "son_pajarito_desc"
+val[]: "Sierra El Pajarito is a rugged range in northern Sonora, where rocky slopes and upland vegetation overlook broad desert valleys."
+
+key[]: "son_yaqui_desc"
+val[]: "The Yaqui River drains much of eastern Sonora. Near Sierra Los Chinos, its valley cuts through rugged terrain before continuing toward the agricultural plains and the Gulf of California."
+
+
+# Arizona
+key[]: "az_lavender_desc"
+val[]: "The Lavender Pit is a large open-pit copper mine in Bisbee, Arizona. Its stepped benches expose bands of colorful rock beside the historic mining town."
+
+
+# Chihuahua
+key[]: "chih_majalca_desc"
+val[]: "Cumbres de Majalca is a protected mountain area north of Chihuahua City, known for unusual rock formations, pine-oak woodland and cool highland scenery."
+
+key[]: "chih_puertosl_desc"
+val[]: "This mountain pass crosses the Sierra de San Luis, a remote range of grasslands, oak woodland and rocky peaks near the Chihuahua-Sonora border."
+
+
+# Sinaloa
+key[]: "sin_culiacanl_desc"
+val[]: "This distribution center represents Culiacán's role as a logistics hub for the productive valleys of central Sinaloa."
+
+key[]: "sin_culiacan2_desc"
+val[]: "Culiacán Rosales is the capital of Sinaloa. The city stands where the Humaya and Tamazula rivers meet to form the Culiacán River."
+
+
+# Durango
+key[]: "dgo_temohaya1_desc"
+val[]: "Temohaya Canyon cuts through the rugged highlands of Durango, revealing steep wooded slopes and the complex relief of the Sierra Madre Occidental."
+
+key[]: "dgo_temohaya2_desc"
+val[]: "This panorama opens across the Temohaya highlands, where forested ridges and deep valleys stretch through the mountains of Durango."
+
+key[]: "dgo_temohaya3_desc"
+val[]: "The Temohaya crest follows high terrain in the Sierra Madre Occidental and offers broad views over successive ridges and ravines."
+
+key[]: "dgo_quebradas1_desc"
+val[]: "Las Quebradas is the name given to the deep canyon country of western Durango. From the highlands, the land falls sharply toward the Pacific lowlands."
+
+key[]: "dgo_quebradas2_desc"
+val[]: "The river at Las Quebradas winds through a remote canyon landscape, linking the forested heights of Durango with warmer valleys downstream."
+
+key[]: "dgo_mezquital1_desc"
+val[]: "The Mezquital Valley lies among the mountains and canyons of southern Durango. The river corridor supports settlements and vegetation within an otherwise rugged region."
+
+key[]: "dgo_tepe1_desc"
+val[]: "Tepetatita Canyon is one of the steep ravines carved into the Sierra Madre Occidental, with winding roads, rocky walls and forested slopes."
+
+
+# Sinaloa
+key[]: "sin_culiacanc_desc"
+val[]: "This viewpoint features the cathedral in Culiacán, highlighting its place in the city's urban landscape."
+
+key[]: "sin_tresrios_desc"
+val[]: "This viewpoint explores the Tres Ríos urban development in Culiacán, with a panorama of the surrounding city."
+
+
+# Chihuahua
+key[]: "chih_obelisco_desc"
+val[]: "The El Charco obelisk is the focal point of this viewpoint, offering a closer look at the monument and its surroundings."
+
+
+# Texas
+key[]: "tx_laredo_desc"
+val[]: "This viewpoint presents Laredo and its urban landscape on the Texas side of the United States-Mexico border."
+
+key[]: "tx_marfa_desc"
+val[]: "This viewpoint presents Marfa, a small West Texas town set within the broad landscapes of the Chihuahuan Desert."
+
+
+# Jalisco
+key[]: "jal_vallartac_desc"
+val[]: "This viewpoint explores central Puerto Vallarta, bringing the city's streets and coastal setting into view."
+
+key[]: "jal_huevo_desc"
+val[]: "This viewpoint features the egg monument, a distinctive local landmark presented together with its surroundings."
+
+key[]: "jal_proan_desc"
+val[]: "This viewpoint presents the PROAN industrial complex, focusing on the facilities represented in the map."
+
+key[]: "jal_juanbus_desc"
+val[]: "This viewpoint features the bus terminal in San Juan de los Lagos and its place in the surrounding urban landscape."
+
+key[]: "jal_tusmanos_desc"
+val[]: "This viewpoint focuses on the monument identified in the map as Por Tus Manos, offering a closer look at the landmark and its setting."
+
+key[]: "jal_proangrano_desc"
+val[]: "This viewpoint presents the PROAN grain facilities and the industrial landscape around them."
+
+key[]: "jal_fespinoza_desc"
+val[]: "These viewpoints feature the Fernando Espinoza Bridge, showing the crossing and its surroundings from different perspectives."
+
+
+# Nayarit
+key[]: "nay_progreso_desc"
+val[]: "This viewpoint features El Progreso Bridge and the road crossing represented in the map."
+
+
+# Jalisco
+key[]: "jal_mascota_desc"
+val[]: "This viewpoint offers a panorama of the landscape around Mascota, inviting a pause along the route."
+
+key[]: "jal_barrancas_desc"
+val[]: "This viewpoint explores the mountain-road landscape of Plan de Barrancas, following the route through its rugged surroundings."
+
+
+# California
+key[]: "ca_coronado_desc"
+val[]: "This viewpoint presents Coronado and its coastal urban setting beside San Diego Bay."
+
+
+# Baja California
+key[]: "bc_centinela_desc"
+val[]: "This viewpoint follows the El Centinela grade, highlighting the road and its surrounding landscape."
+
+key[]: "bc_caballob_desc"
+val[]: "This viewpoint offers a panorama of the mountain-road scenery around La Rumorosa."
+
+key[]: "bc_rumagua_desc"
+val[]: "This viewpoint features the water-intake site identified in the map along the La Rumorosa route."
+
+key[]: "bc_rumorosa_desc"
+val[]: "These viewpoints explore the rugged scenery of La Rumorosa, where roads wind through the northern Sierra de Juárez."
+
+key[]: "bc_guardian_desc"
+val[]: "This viewpoint focuses on the landmark known as the Guardian of La Rumorosa and its mountain-road setting."
+
+key[]: "bc_cimarron_desc"
+val[]: "This viewpoint features El Cimarrón, a named landmark along the La Rumorosa route."
+
+key[]: "bc_rumcuesta_desc"
+val[]: "This viewpoint follows the winding mountain grade of La Rumorosa through the rugged northern Sierra de Juárez."
+
+
+# Nayarit
+key[]: "nay_ceboruco_desc"
+val[]: "This viewpoint presents Ceboruco Volcano and the surrounding landscape of Nayarit."
+
+
+# Jalisco
+key[]: "jal_tequila_desc"
+val[]: "Tequila lies among agave fields, historic estates and distilleries in Jalisco. Its landscape is closely associated with the drink that bears the town's name."
+
+key[]: "jal_barrlibre_desc"
+val[]: "These viewpoints follow the free highway through Plan de Barrancas, offering different perspectives on the road and its mountain setting."
+
+
+# Nuevo León
+key[]: "nl_namiqgar_desc"
+val[]: "This viewpoint presents the NAMIQ plant at Villa de García as depicted in the map, with a focus on its industrial facilities."
+
+key[]: "nl_mtysalt_desc"
+val[]: "This viewpoint follows the highway between Monterrey and Saltillo, highlighting the road corridor and its surrounding terrain."
+
+key[]: "nl_saltmty_desc"
+val[]: "This viewpoint features the toll highway connecting Saltillo and Monterrey and the landscape along the route."
+
+
+# Jalisco
+key[]: "jal_santiago_desc"
+val[]: "This viewpoint features the Santiago River and the landscape along its course."
+
+key[]: "jal_huentitan_desc"
+val[]: "These viewpoints explore Huentitán Canyon, offering different perspectives on its steep slopes and river landscape near Guadalajara."
+
+
+# Coahuila
+key[]: "coah_pandora_desc"
+val[]: "This viewpoint presents the site identified in the map as Pandora Orígenes, focusing on the landmark and its surroundings."
+
+key[]: "coah_cuatroc_desc"
+val[]: "This viewpoint presents Cuatro Ciénegas, one of Coahuila's Pueblos Mágicos, and the landscape around the town."
+
+key[]: "coah_carmen_desc"
+val[]: "This viewpoint explores the landscape identified in the map as Carmen Canyon, with a panorama of the canyon terrain."
+
+key[]: "coah_muralla_desc"
+val[]: "This viewpoint presents La Muralla, highlighting the site and the surrounding landscape along the route."
+
+key[]: "coah_murallap_desc"
+val[]: "This viewpoint explores the site identified in the map as Paseo La Muralla and its surroundings."
+
+key[]: "coah_murallad_desc"
+val[]: "This viewpoint presents Paseo de la Muralla, offering another perspective on the local landscape."
+
+key[]: "coah_sanlazaro_desc"
+val[]: "This viewpoint presents the site identified in the map as San Lázaro and its surroundings."
+
+
+# Nuevo León
+key[]: "nl_potrero_desc"
+val[]: "This viewpoint explores the mountain landscape of Potrero Chico, with a panorama of its rocky surroundings."
+
+
+# Jalisco
+key[]: "jal_bahiaband_desc"
+val[]: "These viewpoints present Banderas Bay and the coastal landscape around Puerto Vallarta."
+
+key[]: "jal_vallarta_desc"
+val[]: "This viewpoint offers a panorama of Puerto Vallarta, a coastal city overlooking Banderas Bay."
+
+key[]: "jal_marinav_desc"
+val[]: "This viewpoint explores Marina Vallarta, focusing on the marina and the surrounding urban waterfront."
+
+key[]: "jal_aeropv_desc"
+val[]: "This viewpoint features Puerto Vallarta's airport and the transport facilities represented in the map."
+
+
+# Baja California
+key[]: "bc_escenica_desc"
+val[]: "This viewpoint follows the scenic highway in Baja California, offering a panorama of the route and its surroundings."
+
+key[]: "bc_ensenadac_desc"
+val[]: "This viewpoint presents central Ensenada, highlighting the city's streets and urban setting."
+
+key[]: "bc_ensenadap_desc"
+val[]: "This viewpoint explores the port of Ensenada, focusing on its harbor and maritime facilities."
+
+key[]: "bc_canadas_desc"
+val[]: "This viewpoint presents Las Cañadas and the surrounding landscape along the Baja California route."
+
+key[]: "bc_costilla_desc"
+val[]: "This viewpoint features La Costilla Beach and the adjoining coastal landscape."
+
+key[]: "bc_cortes_desc"
+val[]: "These viewpoints look out over the Sea of Cortez, also known as the Gulf of California, which separates the Baja California peninsula from mainland Mexico."
+
+key[]: "bc_huerfano_desc"
+val[]: "This viewpoint presents El Huerfanito and the coastal scenery along the route."
+
+key[]: "bc_puerco_desc"
+val[]: "This viewpoint features Puerco Beach, offering a panorama of the shoreline and its surroundings."
+
+key[]: "bc_puertecit_desc"
+val[]: "Puertecitos lies south of San Felipe on the Gulf of California coast. The settlement is known for its natural hot springs."
+
+key[]: "bc_huerisla_desc"
+val[]: "This viewpoint looks toward El Huerfanito Island and the surrounding coastal waters."
+
+key[]: "bc_rosario_desc"
+val[]: "This viewpoint presents El Rosario and its surroundings along the Baja California route."
+
+key[]: "bc_uruapan_desc"
+val[]: "This viewpoint explores the vineyards identified in the map at Ejido Uruapan, highlighting their agricultural setting."
+
+key[]: "bc_veladero_desc"
+val[]: "This viewpoint presents El Veladero in the Eréndira area, offering a panorama of the local landscape."
+
+key[]: "bc_turquesa_desc"
+val[]: "This viewpoint follows the La Turquesa grade, with a panorama of the road and its surrounding terrain."
+
+key[]: "bc_catavina_desc"
+val[]: "This viewpoint explores Cataviña Valley and the desert landscape along the Baja California peninsula."
+
+
+# Baja California Sur
+key[]: "bcs_infierno_desc"
+val[]: "This viewpoint follows Cuesta del Infierno, highlighting the winding road and the terrain around the grade."
+
+key[]: "bcs_tortugas_desc"
+val[]: "This viewpoint presents Bahía Tortugas and its coastal setting on the Baja California peninsula."
+
+key[]: "bcs_srosalia_desc"
+val[]: "This viewpoint presents Santa Rosalía and its urban landscape on the Baja California peninsula."
+
+key[]: "bcs_mismulege_desc"
+val[]: "This viewpoint features the historic Santa Rosalía de Mulegé Mission, part of the mission heritage of Baja California Sur."
+
+key[]: "bcs_requeson_desc"
+val[]: "This viewpoint features El Requesón Beach, with a panorama of the shoreline and surrounding waters."
+
+key[]: "bcs_burro_desc"
+val[]: "This viewpoint presents El Burro Beach and its coastal surroundings."
+
+key[]: "bcs_virgen_desc"
+val[]: "This viewpoint offers a panorama from the site identified in the map as La Virgen."
+
+key[]: "bcs_santispac_desc"
+val[]: "This viewpoint features Santispac Beach, highlighting the shoreline and its coastal setting."
+
+key[]: "bcs_frida_desc"
+val[]: "This viewpoint presents the panorama from the site identified in the map as Frida."
+
+key[]: "bcs_ensblanca_desc"
+val[]: "This viewpoint explores Ensenada Blanca and its coastal surroundings on the Baja California peninsula."
+
+key[]: "bcs_misjavier_desc"
+val[]: "Set in the Sierra de la Giganta, the eighteenth-century San Francisco Javier Mission is part of the historic mission landscape near Loreto."
+
+key[]: "bcs_giganta_desc"
+val[]: "These viewpoints explore the Sierra de la Giganta, the mountain range that forms the rugged backdrop to the Loreto region."
+
+key[]: "bcs_ligui_desc"
+val[]: "This viewpoint follows the Ligüí grade, offering a panorama of the road and its surrounding terrain."
+
+key[]: "bcs_mulege_desc"
+val[]: "These viewpoints present Mulegé, an oasis settlement on the Baja California peninsula, and its surrounding landscape."
+
+key[]: "bcs_santismir_desc"
+val[]: "This viewpoint offers a panorama of the coastal landscape around Santispac."
+
+key[]: "bcs_rosaritom_desc"
+val[]: "This viewpoint presents the panorama from the site identified in the map as Rosarito."
+
+key[]: "bcs_srosport_desc"
+val[]: "This viewpoint features the port of Santa Rosalía, highlighting the harbor and its maritime setting."
+
+key[]: "bcs_loreto_desc"
+val[]: "Loreto lies between the Gulf of California and the Sierra de la Giganta. Its coastal setting and historic center make it a distinctive stop on the peninsula."
+
+key[]: "bcs_nopolo_desc"
+val[]: "This viewpoint presents the Nopoló resort area and its surroundings near Loreto."
+
+key[]: "bcs_sjavier_desc"
+val[]: "This viewpoint presents San Javier and its mountain setting in the Sierra de la Giganta near Loreto."
+

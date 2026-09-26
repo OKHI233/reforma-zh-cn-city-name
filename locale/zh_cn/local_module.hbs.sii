@@ -1,0 +1,9 @@
+SiiNunit
+{
+localization_db : .localization
+{
+@include "viewpoints.hbs.sui"
+@include "photoalbum.hbs.sui"
+@include "road_trip_map.hbs.sui"
+}
+}

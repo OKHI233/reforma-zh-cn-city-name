@@ -1,0 +1,479 @@
+
+# Chihuahua
+key[]: "chih_pregui"
+val[]: "Peguis Canyon"
+
+key[]: "chih_chih"
+val[]: "Chihuahua City"
+
+key[]: "chih_tutu"
+val[]: "Tutuaca Natural Reserve"
+
+key[]: "chih_pinos"
+val[]: "Pinos Altos Mine"
+
+key[]: "chih_mirab"
+val[]: "Basaseachi viewpoint"
+
+key[]: "chih_tara"
+val[]: "Sierra Tarahumara"
+
+key[]: "chih_creel"
+val[]: "Creel township"
+
+key[]: "chih_sierra"
+val[]: "Western Sierra Madre Mountains"
+
+key[]: "chih_divi"
+val[]: "Copper Canyon"
+
+key[]: "chih_uriquem"
+val[]: "Urique viewpoint"
+
+key[]: "chih_urique"
+val[]: "Urique township"
+
+key[]: "chih_bato"
+val[]: "Batopilas township"
+
+key[]: "chih_batob"
+val[]: "Batopilas Canyon"
+
+key[]: "chih_uriqueb"
+val[]: "Urique Canyon"
+
+key[]: "chih_verde"
+val[]: "Rio Verde"
+
+key[]: "chih_deli"
+val[]: "Delicias City"
+
+
+# Durango
+key[]: "dgo_piax"
+val[]: "Piaxtla Canyon"
+
+key[]: "dgo_sant"
+val[]: "Valley of Santiago Papasquiaro"
+
+
+# Sinaloa
+key[]: "sin_comedero"
+val[]: "El Comedero Dam"
+
+
+# Durango
+key[]: "dgo_espinazo"
+val[]: "Devil's Backbone"
+
+key[]: "dgo_baluarte"
+val[]: "Baluarte Bridge"
+
+
+# Nayarit
+key[]: "nay_nayar"
+val[]: "Sierra del Nayar"
+
+key[]: "nay_blas"
+val[]: "San Blas Dock"
+
+
+# Durango
+key[]: "dgo_pena"
+val[]: "Eagle Peak (Pena del Aguila)"
+
+
+# Zacatecas
+key[]: "zac_morones"
+val[]: "Sierra de Morones"
+
+
+# Chihuahua
+key[]: "chih_basa"
+val[]: "Basaseachi Falls"
+
+
+# Sonora
+key[]: "son_cananeam"
+val[]: "Cananea mine"
+
+key[]: "son_caridad"
+val[]: "La Caridad mine"
+
+key[]: "son_gmexico"
+val[]: "Grupo Mexico Plant"
+
+key[]: "son_nacozari"
+val[]: "Nacozari de Garcia township"
+
+key[]: "son_juriquipa"
+val[]: "Sierra de Juriquipa"
+
+key[]: "son_mmaria"
+val[]: "Maria Mine"
+
+key[]: "son_pinito"
+val[]: "Sierra El Pinito"
+
+key[]: "son_cieneguita"
+val[]: "Sierra La Cieneguita"
+
+key[]: "son_pajarito"
+val[]: "Sierra El Pajarito"
+
+key[]: "son_yaqui"
+val[]: "Yaqui river - Sierra Los Chinos"
+
+
+# Arizona
+key[]: "az_lavender"
+val[]: "Lavender Pit"
+
+
+# Chihuahua
+key[]: "chih_majalca"
+val[]: "Majalca Hills"
+
+key[]: "chih_puertosl"
+val[]: "San Luis Mountains Pass"
+
+
+# Sinaloa
+key[]: "sin_culiacanl"
+val[]: "Walbert Distribution Center Culiacan"
+
+key[]: "sin_culiacan2"
+val[]: "City of Culiacan de Rosales"
+
+
+# Durango
+key[]: "dgo_temohaya1"
+val[]: "Temohaya Canyon"
+
+key[]: "dgo_temohaya2"
+val[]: "Panorama of Temohaya"
+
+key[]: "dgo_temohaya3"
+val[]: "Temohaya Crest"
+
+key[]: "dgo_quebradas1"
+val[]: "Panorama of the Las Quebradas"
+
+key[]: "dgo_quebradas2"
+val[]: "Las Quebradas River"
+
+key[]: "dgo_mezquital1"
+val[]: "Mezquital Valley"
+
+key[]: "dgo_tepe1"
+val[]: "Tepetatita Canyon"
+
+
+# Sinaloa
+key[]: "sin_culiacanc"
+val[]: "Culiacán Cathedral"
+
+key[]: "sin_tresrios"
+val[]: "Tres Ríos Urban Development"
+
+
+# Chihuahua
+key[]: "chih_obelisco"
+val[]: "El Charco Obelisk"
+
+
+# Texas
+key[]: "tx_laredo"
+val[]: "Laredo"
+
+key[]: "tx_marfa"
+val[]: "Marfa"
+
+
+# Jalisco
+key[]: "jal_vallartac"
+val[]: "Downtown Puerto Vallarta"
+
+key[]: "jal_huevo"
+val[]: "Egg Monument"
+
+key[]: "jal_proan"
+val[]: "PROAN Industrial Complex"
+
+key[]: "jal_juanbus"
+val[]: "San Juan de los Lagos Bus Terminal"
+
+key[]: "jal_tusmanos"
+val[]: "Por Tus Manos Monument"
+
+key[]: "jal_proangrano"
+val[]: "PROAN Grain Facilities"
+
+key[]: "jal_fespinoza"
+val[]: "Fernando Espinoza Bridge"
+
+
+# Nayarit
+key[]: "nay_progreso"
+val[]: "El Progreso Bridge"
+
+
+# Jalisco
+key[]: "jal_mascota"
+val[]: "Mascota Viewpoint"
+
+key[]: "jal_barrancas"
+val[]: "Plan de Barrancas"
+
+
+# California
+key[]: "ca_coronado"
+val[]: "Coronado Island"
+
+
+# Baja California
+key[]: "bc_centinela"
+val[]: "El Centinela Grade"
+
+key[]: "bc_caballob"
+val[]: "Caballo Blanco Viewpoint"
+
+key[]: "bc_rumagua"
+val[]: "La Rumorosa Water Intakes"
+
+key[]: "bc_rumorosa"
+val[]: "La Rumorosa Viewpoint"
+
+key[]: "bc_guardian"
+val[]: "Guardian of La Rumorosa"
+
+key[]: "bc_cimarron"
+val[]: "El Cimarrón, La Rumorosa"
+
+key[]: "bc_rumcuesta"
+val[]: "La Rumorosa Grade"
+
+
+# Nayarit
+key[]: "nay_ceboruco"
+val[]: "Ceboruco Volcano"
+
+
+# Jalisco
+key[]: "jal_tequila"
+val[]: "Tequila"
+
+key[]: "jal_barrlibre"
+val[]: "Plan de Barrancas Free Highway"
+
+
+# Nuevo León
+key[]: "nl_namiqgar"
+val[]: "NAMIQ Plant, Villa de García"
+
+key[]: "nl_mtysalt"
+val[]: "Monterrey-Saltillo Highway"
+
+key[]: "nl_saltmty"
+val[]: "Saltillo-Monterrey Toll Highway"
+
+
+# Jalisco
+key[]: "jal_santiago"
+val[]: "Santiago River"
+
+key[]: "jal_huentitan"
+val[]: "Huentitán Canyon"
+
+
+# Coahuila
+key[]: "coah_pandora"
+val[]: "Pandora Orígenes"
+
+key[]: "coah_cuatroc"
+val[]: "Cuatro Ciénegas"
+
+key[]: "coah_carmen"
+val[]: "Carmen Canyon"
+
+key[]: "coah_muralla"
+val[]: "La Muralla"
+
+key[]: "coah_murallap"
+val[]: "Paseo La Muralla"
+
+key[]: "coah_murallad"
+val[]: "Paseo de la Muralla"
+
+key[]: "coah_sanlazaro"
+val[]: "San Lázaro"
+
+
+# Nuevo León
+key[]: "nl_potrero"
+val[]: "Potrero Chico"
+
+
+# Jalisco
+key[]: "jal_bahiaband"
+val[]: "Banderas Bay"
+
+key[]: "jal_vallarta"
+val[]: "Puerto Vallarta"
+
+key[]: "jal_marinav"
+val[]: "Marina Vallarta"
+
+key[]: "jal_aeropv"
+val[]: "Puerto Vallarta Airport"
+
+
+# Baja California
+key[]: "bc_escenica"
+val[]: "Baja California Scenic Highway"
+
+key[]: "bc_ensenadac"
+val[]: "Downtown Ensenada"
+
+key[]: "bc_ensenadap"
+val[]: "Port of Ensenada"
+
+key[]: "bc_canadas"
+val[]: "Las Cañadas"
+
+key[]: "bc_costilla"
+val[]: "La Costilla Beach"
+
+key[]: "bc_cortes"
+val[]: "Sea of Cortez"
+
+key[]: "bc_huerfano"
+val[]: "El Huerfanito"
+
+key[]: "bc_puerco"
+val[]: "Puerco Beach"
+
+key[]: "bc_puertecit"
+val[]: "Puertecitos"
+
+key[]: "bc_huerisla"
+val[]: "El Huerfanito Island"
+
+key[]: "bc_rosario"
+val[]: "El Rosario"
+
+key[]: "bc_uruapan"
+val[]: "Ejido Uruapan Vineyards"
+
+key[]: "bc_veladero"
+val[]: "El Veladero, Eréndira"
+
+key[]: "bc_turquesa"
+val[]: "La Turquesa Grade"
+
+key[]: "bc_catavina"
+val[]: "Cataviña Valley"
+
+
+# Baja California Sur
+key[]: "bcs_infierno"
+val[]: "Cuesta del Infierno"
+
+key[]: "bcs_tortugas"
+val[]: "Bahía Tortugas"
+
+key[]: "bcs_srosalia"
+val[]: "Santa Rosalía"
+
+key[]: "bcs_mismulege"
+val[]: "Santa Rosalía de Mulegé Mission"
+
+key[]: "bcs_requeson"
+val[]: "El Requesón Beach"
+
+key[]: "bcs_burro"
+val[]: "El Burro Beach"
+
+key[]: "bcs_virgen"
+val[]: "La Virgen Viewpoint"
+
+key[]: "bcs_santispac"
+val[]: "Santispac Beach"
+
+key[]: "bcs_frida"
+val[]: "Frida Viewpoint"
+
+key[]: "bcs_ensblanca"
+val[]: "Ensenada Blanca"
+
+key[]: "bcs_misjavier"
+val[]: "San Francisco Javier Mission"
+
+key[]: "bcs_giganta"
+val[]: "Sierra de la Giganta"
+
+key[]: "bcs_ligui"
+val[]: "Ligüí Grade"
+
+key[]: "bcs_mulege"
+val[]: "Mulegé"
+
+key[]: "bcs_santismir"
+val[]: "Santispac Viewpoint"
+
+key[]: "bcs_rosaritom"
+val[]: "Rosarito Viewpoint"
+
+key[]: "bcs_srosport"
+val[]: "Port of Santa Rosalía"
+
+key[]: "bcs_loreto"
+val[]: "Loreto"
+
+key[]: "bcs_nopolo"
+val[]: "Nopoló Resorts"
+
+key[]: "bcs_sjavier"
+val[]: "San Javier"
+
+
+# Grupos del album
+key[]: "algr_reforma"
+val[]: "Reforma"
+
+key[]: "algr_aguasca"
+val[]: "Aguascalientes"
+
+key[]: "algr_bajacalifo"
+val[]: "Baja California"
+
+key[]: "algr_bajacalisu"
+val[]: "Baja California Sur"
+
+key[]: "algr_sonora"
+val[]: "Sonora"
+
+key[]: "algr_sinaloa"
+val[]: "Sinaloa"
+
+key[]: "algr_chihuah"
+val[]: "Chihuahua"
+
+key[]: "algr_durango"
+val[]: "Durango"
+
+key[]: "algr_zacatecas"
+val[]: "Zacatecas"
+
+key[]: "algr_coahuil"
+val[]: "Coahuila"
+
+key[]: "algr_nvoleon"
+val[]: "Nuevo León"
+
+key[]: "algr_nayarit"
+val[]: "Nayarit"
+
+key[]: "algr_jalisco"
+val[]: "Jalisco"
+

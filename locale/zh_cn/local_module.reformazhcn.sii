@@ -4,7 +4,7 @@ localization_db : .localization
 {
 
 	#COUNTRIES
-		key[]: "aguascac"
+		key[]: "aguasca.st"
 		val[]: "阿瓜斯卡连特斯州"
 
 		key[]: "bajacalifo"
@@ -19,10 +19,10 @@ localization_db : .localization
 		key[]: "coahuil"
 		val[]: "科阿韦拉州"
 
-		key[]: "colima"
+		key[]: "colima.st"
 		val[]: "科利马州"
 
-		key[]: "durangoc"
+		key[]: "durango.st"
 		val[]: "杜兰戈州"
 
 		key[]: "guanajua"
@@ -58,7 +58,7 @@ localization_db : .localization
 		key[]: "veracruz"
 		val[]: "韦拉克鲁斯州"
 
-		key[]: "zacatecasc"
+		key[]: "zacatecas.st"
 		val[]: "萨卡特卡斯州"
 
 	#CITIES
@@ -68,7 +68,7 @@ localization_db : .localization
 		key[]: "agua_prieta"
 		val[]: "阿瓜普列塔"
 
-		key[]: "aguasca"
+		key[]: "aguasca.ci"
 		val[]: "阿瓜斯卡连特斯"
 
 		key[]: "ahualulco"
@@ -204,13 +204,16 @@ localization_db : .localization
 		val[]: "查卡斯"
 
 		key[]: "chihuahua"
-		val[]: "奇瓦瓦市"
+		val[]: "奇瓦瓦"
 
 		key[]: "ciro"
 		val[]: "圣西罗德阿科斯塔"
 
 		key[]: "ciucoahuila"
 		val[]: "科阿韦拉城"
+
+		key[]: "colima.ci"
+		val[]: "科利马"
 
 		key[]: "colotlan"
 		val[]: "科洛特兰"
@@ -377,6 +380,9 @@ localization_db : .localization
 		key[]: "maiz"
 		val[]: "麦斯城"
 
+		key[]: "manzan"
+		val[]: "曼萨尼约"
+
 		key[]: "mapimi"
 		val[]: "马皮米"
 
@@ -392,7 +398,7 @@ localization_db : .localization
 		key[]: "mazam"
 		val[]: "马萨米特拉"
 
-		key[]: "mazatlan"
+		key[]: "mazatlan.ci"
 		val[]: "马萨特兰"
 
 		key[]: "mesa_nayar"
@@ -528,7 +534,7 @@ localization_db : .localization
 		val[]: "圣布拉斯"
 
 		key[]: "sanluisp"
-		val[]: "圣路易斯波托西市"
+		val[]: "圣路易斯波托西"
 
 		key[]: "sanluisrc"
 		val[]: "圣路易斯里奥科罗拉多"
@@ -536,7 +542,7 @@ localization_db : .localization
 		key[]: "santa_ana"
 		val[]: "圣安娜"
 
-		key[]: "santa_rosa"
+		key[]: "santa_rosa.ci"
 		val[]: "圣罗萨利亚"
 
 		key[]: "santiagopap"
@@ -584,6 +590,9 @@ localization_db : .localization
 		key[]: "tecate"
 		val[]: "特卡特"
 
+		key[]: "tecoman"
+		val[]: "特科曼"
+
 		key[]: "tecuala"
 		val[]: "特夸拉"
 
@@ -629,7 +638,7 @@ localization_db : .localization
 		key[]: "valpa"
 		val[]: "瓦尔帕莱索"
 
-		key[]: "vdurango"
+		key[]: "vdurango.ci"
 		val[]: "杜兰戈"
 
 		key[]: "venegas"
@@ -662,7 +671,7 @@ localization_db : .localization
 		key[]: "yecora"
 		val[]: "耶科拉"
 
-		key[]: "zacatecas"
+		key[]: "zacatecas.ci"
 		val[]: "萨卡特卡斯"
 
 		key[]: "zapopan"
@@ -670,13 +679,16 @@ localization_db : .localization
 
 	#FERRIES
 		key[]: "lapaz"
-		val[]: "巴哈渡轮 拉巴斯"
+		val[]: "BajaFerries拉巴斯"
 
 		key[]: "losmochis"
-		val[]: "巴哈渡轮 托波洛班波"
+		val[]: "BajaFerries托波洛班波"
 
-		key[]: "mazatlanf"
-		val[]: "巴哈渡轮 马萨特兰"
+		key[]: "mazatlan.fe"
+		val[]: "BajaFerries马萨特兰"
+
+		key[]: "santa_rosa.fe"
+		val[]: "BajaFerries圣罗萨利亚"
 
 
 }
