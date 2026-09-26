@@ -1,0 +1,11 @@
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.santa_rosa
+{
+	ferry_name: "BajaFerries Santa Rosalia"
+	ferry_name_localized: "@@santa_rosa.fe@@"
+
+}
+
+

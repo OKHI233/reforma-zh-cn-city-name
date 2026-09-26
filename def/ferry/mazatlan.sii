@@ -4,7 +4,7 @@
 ferry_data: ferry.mazatlan
 {
 	ferry_name: "BajaFerries Mazatlan"
-	ferry_name_localized: "@@mazatlanf@@"
+	ferry_name_localized: "@@mazatlan.fe@@"
 
 }
 
