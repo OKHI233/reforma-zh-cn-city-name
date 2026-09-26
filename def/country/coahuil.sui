@@ -16,7 +16,7 @@ country_data: country.data.coahuil
 	imperial_units: false	
 	driving_tired_offence: false
 	
-	time_zone: -300		# -5 hours in minutes
+	time_zone: -300		# -6 hours in minutes
 	time_zone_name: "@@tz_cdt@@"
 	
 	mass_limit_per_axle_count[]: 18143.7	# 40000 lb	# 2-axle vehicle

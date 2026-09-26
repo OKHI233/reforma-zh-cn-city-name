@@ -16,7 +16,7 @@ country_data : country.data.bajacalifo
 	imperial_units: false	
 	driving_tired_offence: false	
 	
-	time_zone: -420		# -7 hours in minutes
+	time_zone: -420		# -8 hours in minutes
 	time_zone_name: "@@tz_pdt@@"
 	
 	mass_limit_per_axle_count[]: 18143.7	# 40000 lb	# 2-axle vehicle

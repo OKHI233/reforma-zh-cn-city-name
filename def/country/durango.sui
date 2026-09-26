@@ -4,7 +4,7 @@ country_data: country.data.durango
 	country_id: 103	
 	
 	name: "Durango"
-	name_localized: "@@durangoc@@"
+	name_localized: "@@durango.st@@"
 	country_code: "DGO.MX"
 	iso_country_code: mex
 
@@ -16,7 +16,7 @@ country_data: country.data.durango
 	imperial_units: false	
 	driving_tired_offence: false
 	
-	time_zone: -300		# -5 hours in minutes
+	time_zone: -300		# -6 hours in minutes
 	time_zone_name: "@@tz_cdt@@"
 	
 	mass_limit_per_axle_count[]: 18143.7	# 40000 lb	# 2-axle vehicle

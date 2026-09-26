@@ -4,7 +4,7 @@ country_data: country.data.colima
 	country_id: 111	
 	
 	name: "Colima"
-	name_localized: "@@colima@@"
+	name_localized: "@@colima.st@@"
 	country_code: "COL.MX"
 	iso_country_code: mex
 
@@ -16,7 +16,7 @@ country_data: country.data.colima
 	imperial_units: false	
 	driving_tired_offence: false
 	
-	time_zone: -300		# -5 hours in minutes
+	time_zone: -300		# -6 hours in minutes
 	time_zone_name: "@@tz_cdt@@"
 	
 	mass_limit_per_axle_count[]: 18143.7	# 40000 lb	# 2-axle vehicle
