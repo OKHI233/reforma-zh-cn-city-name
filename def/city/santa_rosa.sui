@@ -1,7 +1,7 @@
 city_data: city.santa_rosa
 {
 	city_name: "Santa Rosalía"
-	city_name_localized: "@@santa_rosa@@"
+	city_name_localized: "@@santa_rosa.ci@@"
 	country: bajacalisu
 	population: 20000
 	

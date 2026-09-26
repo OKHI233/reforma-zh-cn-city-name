@@ -23,7 +23,7 @@ city_data: city.cd_obregon
 	map_y_offsets[]: 0
 	map_y_offsets[]: 0
 
-	vehicle_brands[]: "peterbilt"
+	vehicle_brands[]: "kenworth"
 
 }
 

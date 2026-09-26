@@ -1,7 +1,7 @@
 city_data: city.zacatecas
 {
 	city_name: "Zacatecas"
-	city_name_localized: "@@zacatecas@@"
+	city_name_localized: "@@zacatecas.ci@@"
 	country: zacatecas
 	population: 140000
 	

@@ -1,7 +1,7 @@
 city_data: city.aguasca
 {
 	city_name: "Aguascalientes"
-	city_name_localized: "@@aguasca@@"
+	city_name_localized: "@@aguasca.ci@@"
 	country: aguasca
 	population: 900000
 	

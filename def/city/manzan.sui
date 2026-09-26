@@ -1,0 +1,36 @@
+﻿city_data: city.manzan
+{
+	city_name: "Manzanillo"
+	city_name_localized: "@@manzan@@"
+	country: colima
+
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+	city_pin_scale_factor[]: 1.0
+
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: 0
+	map_x_offsets[]: -3
+	map_x_offsets[]: -50
+	map_x_offsets[]: -52
+	map_x_offsets[]: -52
+	map_x_offsets[]: -50
+
+	map_y_offsets[]: 0
+	map_y_offsets[]: 0
+	map_y_offsets[]: 35
+	map_y_offsets[]: -8
+	map_y_offsets[]: 101
+	map_y_offsets[]: 76
+	map_y_offsets[]: 28
+	map_y_offsets[]: 6
+
+}
+

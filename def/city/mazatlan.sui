@@ -1,7 +1,7 @@
 city_data: city.mazatlan
 {
 	city_name: "Mazatlán"
-	city_name_localized: "@@mazatlan@@"
+	city_name_localized: "@@mazatlan.ci@@"
 	country: sinaloa
 	population: 440000
 	

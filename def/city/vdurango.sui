@@ -1,7 +1,7 @@
 city_data: city.vdurango
 {
 	city_name: "Durango"
-	city_name_localized: "@@vdurango@@"
+	city_name_localized: "@@vdurango.ci@@"
 	country: durango
 	population: 620000
 	
